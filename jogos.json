@@ -1,0 +1,5572 @@
+[
+    {
+        "id": "10",
+        "nome": "Counter-Strike",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/10/header.jpg"
+    },
+    {
+        "id": "1004640",
+        "nome": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1004640/header.jpg"
+    },
+    {
+        "id": "1007040",
+        "nome": "EARTH DEFENSE FORCE 5",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1007040/header.jpg"
+    },
+    {
+        "id": "1012840",
+        "nome": "Moons of Madness",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1012840/header.jpg"
+    },
+    {
+        "id": "10150",
+        "nome": "Prototype™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/10150/header.jpg"
+    },
+    {
+        "id": "10180",
+        "nome": "Call of Duty®: Modern Warfare® 2 (2009)",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/10180/header.jpg"
+    },
+    {
+        "id": "1018160",
+        "nome": "MXGP 2019 - The Official Motocross Videogame",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1018160/header.jpg"
+    },
+    {
+        "id": "1020790",
+        "nome": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1020790/header.jpg"
+    },
+    {
+        "id": "102500",
+        "nome": "Kingdoms of Amalur: Reckoning™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/102500/header.jpg"
+    },
+    {
+        "id": "1030300",
+        "nome": "Hollow Knight: Silksong",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1030300/header.jpg"
+    },
+    {
+        "id": "1030830",
+        "nome": "Mafia II: Definitive Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1030830/header.jpg"
+    },
+    {
+        "id": "1030840",
+        "nome": "Mafia: Definitive Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1030840/header.jpg"
+    },
+    {
+        "id": "1034140",
+        "nome": "Subverse",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1034140/header.jpg"
+    },
+    {
+        "id": "1036890",
+        "nome": "Shadow Warrior 3: Definitive Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1036890/header.jpg"
+    },
+    {
+        "id": "1040200",
+        "nome": "Crime Scene Cleaner",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1040200/header.jpg"
+    },
+    {
+        "id": "1043860",
+        "nome": "Glad Valakas: Cyberban",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1043860/header.jpg"
+    },
+    {
+        "id": "1044720",
+        "nome": "Farthest Frontier",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1044720/header.jpg"
+    },
+    {
+        "id": "105400",
+        "nome": "Steam App 105400",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/105400/header.jpg"
+    },
+    {
+        "id": "1054030",
+        "nome": "Hobo Knight",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1054030/header.jpg"
+    },
+    {
+        "id": "105600",
+        "nome": "Terraria",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/105600/header.jpg"
+    },
+    {
+        "id": "1056970",
+        "nome": "Wolfenstein: Cyberpilot",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1056970/header.jpg"
+    },
+    {
+        "id": "1057090",
+        "nome": "Ori and the Will of the Wisps",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1057090/header.jpg"
+    },
+    {
+        "id": "1063660",
+        "nome": "Bendy and the Dark Revival",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1063660/header.jpg"
+    },
+    {
+        "id": "1063730",
+        "nome": "New World: Aeternum",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1063730/header.jpg"
+    },
+    {
+        "id": "1072480",
+        "nome": "The Fisherman - Fishing Planet",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1072480/header.jpg"
+    },
+    {
+        "id": "1080110",
+        "nome": "F1® 2020",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1080110/header.jpg"
+    },
+    {
+        "id": "1085660",
+        "nome": "Destiny 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1085660/header.jpg"
+    },
+    {
+        "id": "108600",
+        "nome": "Project Zomboid",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/108600/header.jpg"
+    },
+    {
+        "id": "1086940",
+        "nome": "Baldur's Gate 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1086940/header.jpg"
+    },
+    {
+        "id": "108710",
+        "nome": "Alan Wake",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/108710/header.jpg"
+    },
+    {
+        "id": "1087760",
+        "nome": "The Gunk",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1087760/header.jpg"
+    },
+    {
+        "id": "108800",
+        "nome": "Crysis 2 - Maximum Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/108800/header.jpg"
+    },
+    {
+        "id": "1088710",
+        "nome": "Yakuza 3 Remastered",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1088710/header.jpg"
+    },
+    {
+        "id": "1088850",
+        "nome": "Marvel's Guardians of the Galaxy",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1088850/header.jpg"
+    },
+    {
+        "id": "1089090",
+        "nome": "ONE PIECE: PIRATE WARRIORS 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1089090/header.jpg"
+    },
+    {
+        "id": "1089350",
+        "nome": "NBA 2K20",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1089350/header.jpg"
+    },
+    {
+        "id": "1089820",
+        "nome": "Reanimation Inc.",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1089820/header.jpg"
+    },
+    {
+        "id": "1089830",
+        "nome": "Monster Energy Supercross - The Official Videogame 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1089830/header.jpg"
+    },
+    {
+        "id": "1091500",
+        "nome": "Cyberpunk 2077",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1091500/header.jpg"
+    },
+    {
+        "id": "1092790",
+        "nome": "Inscryption",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1092790/header.jpg"
+    },
+    {
+        "id": "1097840",
+        "nome": "Gears 5",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1097840/header.jpg"
+    },
+    {
+        "id": "1098940",
+        "nome": "Home Sweet Home EP2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1098940/header.jpg"
+    },
+    {
+        "id": "11020",
+        "nome": "TrackMania Nations Forever",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/11020/header.jpg"
+    },
+    {
+        "id": "1105500",
+        "nome": "Yakuza 4 Remastered",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1105500/header.jpg"
+    },
+    {
+        "id": "1105510",
+        "nome": "Yakuza 5 Remastered",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1105510/header.jpg"
+    },
+    {
+        "id": "1106140",
+        "nome": "The Drift Challenge",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1106140/header.jpg"
+    },
+    {
+        "id": "1106340",
+        "nome": "Legend Bowl",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1106340/header.jpg"
+    },
+    {
+        "id": "1110910",
+        "nome": "Mortal Shell",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1110910/header.jpg"
+    },
+    {
+        "id": "1112790",
+        "nome": "Automation Empire",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1112790/header.jpg"
+    },
+    {
+        "id": "1112930",
+        "nome": "Dredgers",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1112930/header.jpg"
+    },
+    {
+        "id": "1113560",
+        "nome": "NieR Replicant™ ver.1.22474487139...",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1113560/header.jpg"
+    },
+    {
+        "id": "1118310",
+        "nome": "RetroArch",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1118310/header.jpg"
+    },
+    {
+        "id": "1121640",
+        "nome": "The Wandering Village",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1121640/header.jpg"
+    },
+    {
+        "id": "1122720",
+        "nome": "Sayonara Wild Hearts",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1122720/header.jpg"
+    },
+    {
+        "id": "1123770",
+        "nome": "Curse of the Dead Gods",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1123770/header.jpg"
+    },
+    {
+        "id": "1127980",
+        "nome": "NASCAR Heat 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1127980/header.jpg"
+    },
+    {
+        "id": "1129310",
+        "nome": "Receiver 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1129310/header.jpg"
+    },
+    {
+        "id": "113200",
+        "nome": "The Binding of Isaac",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/113200/header.jpg"
+    },
+    {
+        "id": "1135230",
+        "nome": "Ember Knights",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1135230/header.jpg"
+    },
+    {
+        "id": "1135300",
+        "nome": "King's Bounty II",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1135300/header.jpg"
+    },
+    {
+        "id": "1135690",
+        "nome": "Unpacking",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1135690/header.jpg"
+    },
+    {
+        "id": "1140100",
+        "nome": "The Persistence",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1140100/header.jpg"
+    },
+    {
+        "id": "11440",
+        "nome": "Steam App 11440",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/11440/header.jpg"
+    },
+    {
+        "id": "1144200",
+        "nome": "Ready or Not",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1144200/header.jpg"
+    },
+    {
+        "id": "1145350",
+        "nome": "Hades II",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1145350/header.jpg"
+    },
+    {
+        "id": "1145360",
+        "nome": "Hades",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1145360/header.jpg"
+    },
+    {
+        "id": "1148890",
+        "nome": "Protect the campus",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1148890/header.jpg"
+    },
+    {
+        "id": "1149560",
+        "nome": "DEATHVERSE: LET IT DIE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1149560/header.jpg"
+    },
+    {
+        "id": "1150690",
+        "nome": "OMORI",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1150690/header.jpg"
+    },
+    {
+        "id": "1151340",
+        "nome": "Fallout 76",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1151340/header.jpg"
+    },
+    {
+        "id": "1151640",
+        "nome": "Horizon Zero Dawn™ Complete Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1151640/header.jpg"
+    },
+    {
+        "id": "115300",
+        "nome": "Call of Duty®: Modern Warfare® 3 (2011)",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/115300/header.jpg"
+    },
+    {
+        "id": "1153410",
+        "nome": "JDM: Japanese Drift Master",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1153410/header.jpg"
+    },
+    {
+        "id": "1156250",
+        "nome": "Exorcism of the Legion (Last Rites)",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1156250/header.jpg"
+    },
+    {
+        "id": "1158370",
+        "nome": "Aragami 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1158370/header.jpg"
+    },
+    {
+        "id": "1161490",
+        "nome": "MotoGP™20",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1161490/header.jpg"
+    },
+    {
+        "id": "1161590",
+        "nome": "Punch Club 2: Fast Forward",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1161590/header.jpg"
+    },
+    {
+        "id": "1162750",
+        "nome": "Songs of Syx",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1162750/header.jpg"
+    },
+    {
+        "id": "1174180",
+        "nome": "Red Dead Redemption 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1174180/header.jpg"
+    },
+    {
+        "id": "1175830",
+        "nome": "Legend of Mana",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1175830/header.jpg"
+    },
+    {
+        "id": "1179080",
+        "nome": "FAITH: The Unholy Trinity",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1179080/header.jpg"
+    },
+    {
+        "id": "1181630",
+        "nome": "Rebel Inc: Escalation - Soundtrack",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1181630/header.jpg"
+    },
+    {
+        "id": "1182900",
+        "nome": "A Plague Tale: Requiem",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1182900/header.jpg"
+    },
+    {
+        "id": "1184050",
+        "nome": "Gears Tactics",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1184050/header.jpg"
+    },
+    {
+        "id": "1190000",
+        "nome": "Car Mechanic Simulator 2021",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1190000/header.jpg"
+    },
+    {
+        "id": "1190970",
+        "nome": "House Flipper 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1190970/header.jpg"
+    },
+    {
+        "id": "1193130",
+        "nome": "LoveSick Darlings Demo",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1193130/header.jpg"
+    },
+    {
+        "id": "1195620",
+        "nome": "Ocean Drive Challenge Remastered",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1195620/header.jpg"
+    },
+    {
+        "id": "1196590",
+        "nome": "Resident Evil Village",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1196590/header.jpg"
+    },
+    {
+        "id": "1203190",
+        "nome": "Wreckfest 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1203190/header.jpg"
+    },
+    {
+        "id": "1203220",
+        "nome": "NARAKA: BLADEPOINT",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1203220/header.jpg"
+    },
+    {
+        "id": "1205970",
+        "nome": "MX vs ATV Legends",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1205970/header.jpg"
+    },
+    {
+        "id": "1206560",
+        "nome": "WorldBox - God Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1206560/header.jpg"
+    },
+    {
+        "id": "12100",
+        "nome": "Grand Theft Auto III",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/12100/header.jpg"
+    },
+    {
+        "id": "12110",
+        "nome": "Grand Theft Auto: Vice City",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/12110/header.jpg"
+    },
+    {
+        "id": "12120",
+        "nome": "Grand Theft Auto: San Andreas",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/12120/header.jpg"
+    },
+    {
+        "id": "1214650",
+        "nome": "SOUTH PARK: SNOW DAY!",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1214650/header.jpg"
+    },
+    {
+        "id": "12170",
+        "nome": "Steam App 12170",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/12170/header.jpg"
+    },
+    {
+        "id": "12180",
+        "nome": "Steam App 12180",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/12180/header.jpg"
+    },
+    {
+        "id": "12200",
+        "nome": "Bully: Scholarship Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/12200/header.jpg"
+    },
+    {
+        "id": "12210",
+        "nome": "Grand Theft Auto IV: The Complete Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/12210/header.jpg"
+    },
+    {
+        "id": "1222140",
+        "nome": "Detroit: Become Human",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1222140/header.jpg"
+    },
+    {
+        "id": "1222680",
+        "nome": "Need for Speed™ Heat",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1222680/header.jpg"
+    },
+    {
+        "id": "1222700",
+        "nome": "A Way Out",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1222700/header.jpg"
+    },
+    {
+        "id": "12250",
+        "nome": "Grand Theft Auto: San Andreas",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/12250/header.jpg"
+    },
+    {
+        "id": "1225330",
+        "nome": "NBA 2K21",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1225330/header.jpg"
+    },
+    {
+        "id": "1229490",
+        "nome": "ULTRAKILL",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1229490/header.jpg"
+    },
+    {
+        "id": "1235120",
+        "nome": "Meme Run 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1235120/header.jpg"
+    },
+    {
+        "id": "1236300",
+        "nome": "Resident Evil Re:Verse",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1236300/header.jpg"
+    },
+    {
+        "id": "1237950",
+        "nome": "STAR WARS™ Battlefront™ II",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1237950/header.jpg"
+    },
+    {
+        "id": "1238820",
+        "nome": "Battlefield 3™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1238820/header.jpg"
+    },
+    {
+        "id": "1238860",
+        "nome": "Battlefield 4™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1238860/header.jpg"
+    },
+    {
+        "id": "1240440",
+        "nome": "Halo Infinite",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1240440/header.jpg"
+    },
+    {
+        "id": "1243830",
+        "nome": "Overcooked! All You Can Eat",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1243830/header.jpg"
+    },
+    {
+        "id": "1244090",
+        "nome": "Sea of Stars: Sunset Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1244090/header.jpg"
+    },
+    {
+        "id": "1245620",
+        "nome": "ELDEN RING",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1245620/header.jpg"
+    },
+    {
+        "id": "1248130",
+        "nome": "Farming Simulator 22",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1248130/header.jpg"
+    },
+    {
+        "id": "1249970",
+        "nome": "Test Drive Unlimited Solar Crown",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1249970/header.jpg"
+    },
+    {
+        "id": "1258220",
+        "nome": "Song of Iron",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1258220/header.jpg"
+    },
+    {
+        "id": "1259420",
+        "nome": "Days Gone",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1259420/header.jpg"
+    },
+    {
+        "id": "1259800",
+        "nome": "MXGP 2020 - The Official Motocross Videogame",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1259800/header.jpg"
+    },
+    {
+        "id": "1259980",
+        "nome": "RIDE 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1259980/header.jpg"
+    },
+    {
+        "id": "1261040",
+        "nome": "Streamer Life Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1261040/header.jpg"
+    },
+    {
+        "id": "1262350",
+        "nome": "SIGNALIS",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1262350/header.jpg"
+    },
+    {
+        "id": "1262560",
+        "nome": "Need for Speed™ Most Wanted",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1262560/header.jpg"
+    },
+    {
+        "id": "1262600",
+        "nome": "Need for Speed™ Rivals",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1262600/header.jpg"
+    },
+    {
+        "id": "1265860",
+        "nome": "NASCAR Heat 5",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1265860/header.jpg"
+    },
+    {
+        "id": "1267540",
+        "nome": "WRC 9 FIA World Rally Championship",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1267540/header.jpg"
+    },
+    {
+        "id": "1268900",
+        "nome": "Nearly Dead",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1268900/header.jpg"
+    },
+    {
+        "id": "1269370",
+        "nome": "171",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1269370/header.jpg"
+    },
+    {
+        "id": "1271280",
+        "nome": "Rift Wizard",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1271280/header.jpg"
+    },
+    {
+        "id": "1274570",
+        "nome": "DEVOUR",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1274570/header.jpg"
+    },
+    {
+        "id": "1274600",
+        "nome": "The Last Faith",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1274600/header.jpg"
+    },
+    {
+        "id": "1276760",
+        "nome": "Steam App 1276760",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1276760/header.jpg"
+    },
+    {
+        "id": "1277130",
+        "nome": "Deathbound",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1277130/header.jpg"
+    },
+    {
+        "id": "1277400",
+        "nome": "Monster Hunter Stories 2: Wings of Ruin",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1277400/header.jpg"
+    },
+    {
+        "id": "1279630",
+        "nome": "Vampire: The Masquerade - Shadows of New York",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1279630/header.jpg"
+    },
+    {
+        "id": "1282100",
+        "nome": "REMNANT II®",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1282100/header.jpg"
+    },
+    {
+        "id": "1283410",
+        "nome": "Tails of Iron",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1283410/header.jpg"
+    },
+    {
+        "id": "1285190",
+        "nome": "Borderlands 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1285190/header.jpg"
+    },
+    {
+        "id": "1288320",
+        "nome": "Way of the Hunter",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1288320/header.jpg"
+    },
+    {
+        "id": "1290000",
+        "nome": "PowerWash Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1290000/header.jpg"
+    },
+    {
+        "id": "1290270",
+        "nome": "Vampire: The Masquerade — Night Road",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1290270/header.jpg"
+    },
+    {
+        "id": "1290350",
+        "nome": "Vampire: The Masquerade — Out for Blood",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1290350/header.jpg"
+    },
+    {
+        "id": "1293230",
+        "nome": "House of Detention",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1293230/header.jpg"
+    },
+    {
+        "id": "1293730",
+        "nome": "Broken Pieces",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1293730/header.jpg"
+    },
+    {
+        "id": "1293830",
+        "nome": "Forza Horizon 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1293830/header.jpg"
+    },
+    {
+        "id": "1294760",
+        "nome": "HARD BULLET",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1294760/header.jpg"
+    },
+    {
+        "id": "1295510",
+        "nome": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1295510/header.jpg"
+    },
+    {
+        "id": "1295660",
+        "nome": "Sid Meier's Civilization VII",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1295660/header.jpg"
+    },
+    {
+        "id": "1295920",
+        "nome": "The Mortuary Assistant",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1295920/header.jpg"
+    },
+    {
+        "id": "1298140",
+        "nome": "Fobia - St. Dinfna Hotel",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1298140/header.jpg"
+    },
+    {
+        "id": "1302240",
+        "nome": "Labyrinthine",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1302240/header.jpg"
+    },
+    {
+        "id": "1304340",
+        "nome": "Monster Energy Supercross - The Official Videogame 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1304340/header.jpg"
+    },
+    {
+        "id": "1307550",
+        "nome": "Craftopia",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1307550/header.jpg"
+    },
+    {
+        "id": "1313140",
+        "nome": "Cult of the Lamb",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1313140/header.jpg"
+    },
+    {
+        "id": "1313860",
+        "nome": "EA SPORTS™ FIFA 21",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1313860/header.jpg"
+    },
+    {
+        "id": "1318140",
+        "nome": "BookConverter",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1318140/header.jpg"
+    },
+    {
+        "id": "1321680",
+        "nome": "Hello Neighbor 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1321680/header.jpg"
+    },
+    {
+        "id": "1325200",
+        "nome": "Nioh 2 – The Complete Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1325200/header.jpg"
+    },
+    {
+        "id": "1326470",
+        "nome": "Sons Of The Forest",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1326470/header.jpg"
+    },
+    {
+        "id": "1332010",
+        "nome": "Stray",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1332010/header.jpg"
+    },
+    {
+        "id": "1332720",
+        "nome": "Thief Simulator 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1332720/header.jpg"
+    },
+    {
+        "id": "1337530",
+        "nome": "Maskmaker",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1337530/header.jpg"
+    },
+    {
+        "id": "1340990",
+        "nome": "Rise of the Ronin",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1340990/header.jpg"
+    },
+    {
+        "id": "1342490",
+        "nome": "Daemon X Machina: Titanic Scion",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1342490/header.jpg"
+    },
+    {
+        "id": "13510",
+        "nome": "Tom Clancy's Ghost Recon Advanced Warfighter® 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/13510/header.jpg"
+    },
+    {
+        "id": "1351240",
+        "nome": "Taxi Life: A City Driving Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1351240/header.jpg"
+    },
+    {
+        "id": "13520",
+        "nome": "Far Cry®",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/13520/header.jpg"
+    },
+    {
+        "id": "13530",
+        "nome": "Prince of Persia: The Two Thrones™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/13530/header.jpg"
+    },
+    {
+        "id": "13540",
+        "nome": "Tom Clancy's Rainbow Six® Vegas",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/13540/header.jpg"
+    },
+    {
+        "id": "1354970",
+        "nome": "DNA Farm",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1354970/header.jpg"
+    },
+    {
+        "id": "1358700",
+        "nome": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1358700/header.jpg"
+    },
+    {
+        "id": "1361320",
+        "nome": "The Room 4: Old Sins",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1361320/header.jpg"
+    },
+    {
+        "id": "1363080",
+        "nome": "Manor Lords",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1363080/header.jpg"
+    },
+    {
+        "id": "1364290",
+        "nome": "Animalia Survival",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1364290/header.jpg"
+    },
+    {
+        "id": "1366800",
+        "nome": "Crosshair X",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1366800/header.jpg"
+    },
+    {
+        "id": "1367590",
+        "nome": "Tormented Souls",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1367590/header.jpg"
+    },
+    {
+        "id": "1369760",
+        "nome": "NINJA GAIDEN 3: Razor's Edge [NINJA GAIDEN: Master Collection]",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1369760/header.jpg"
+    },
+    {
+        "id": "1371980",
+        "nome": "No Rest for the Wicked",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1371980/header.jpg"
+    },
+    {
+        "id": "1374490",
+        "nome": "RuneScape: Dragonwilds",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1374490/header.jpg"
+    },
+    {
+        "id": "1378990",
+        "nome": "Crash Bandicoot™ 4: It’s About Time",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1378990/header.jpg"
+    },
+    {
+        "id": "1384160",
+        "nome": "GUILTY GEAR -STRIVE-",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1384160/header.jpg"
+    },
+    {
+        "id": "1388590",
+        "nome": "Yakuza 6: The Song of Life",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1388590/header.jpg"
+    },
+    {
+        "id": "1392860",
+        "nome": "Little Nightmares III",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1392860/header.jpg"
+    },
+    {
+        "id": "1402320",
+        "nome": "Medal of Honor™: Above and Beyond",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1402320/header.jpg"
+    },
+    {
+        "id": "1403460",
+        "nome": "Flavortown",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1403460/header.jpg"
+    },
+    {
+        "id": "1420290",
+        "nome": "No More Heroes",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1420290/header.jpg"
+    },
+    {
+        "id": "1420300",
+        "nome": "No More Heroes 2: Desperate Struggle",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1420300/header.jpg"
+    },
+    {
+        "id": "1422440",
+        "nome": "Cataclismo",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1422440/header.jpg"
+    },
+    {
+        "id": "1422450",
+        "nome": "Deadlock",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1422450/header.jpg"
+    },
+    {
+        "id": "1426210",
+        "nome": "It Takes Two",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1426210/header.jpg"
+    },
+    {
+        "id": "1430190",
+        "nome": "Killing Floor 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1430190/header.jpg"
+    },
+    {
+        "id": "1437510",
+        "nome": "Primateria Demo",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1437510/header.jpg"
+    },
+    {
+        "id": "1438460",
+        "nome": "The Horror Of Salazar House Demo",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1438460/header.jpg"
+    },
+    {
+        "id": "1439300",
+        "nome": "NASCAR 21: Ignition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1439300/header.jpg"
+    },
+    {
+        "id": "1446780",
+        "nome": "MONSTER HUNTER RISE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1446780/header.jpg"
+    },
+    {
+        "id": "1447000",
+        "nome": "MotoGP™21",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1447000/header.jpg"
+    },
+    {
+        "id": "1449690",
+        "nome": "The Walking Dead: The Telltale Definitive Series",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1449690/header.jpg"
+    },
+    {
+        "id": "1451810",
+        "nome": "LEGO® 2K Drive",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1451810/header.jpg"
+    },
+    {
+        "id": "1454970",
+        "nome": "New Tales from the Borderlands",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1454970/header.jpg"
+    },
+    {
+        "id": "1456940",
+        "nome": "Level Zero: Extraction",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1456940/header.jpg"
+    },
+    {
+        "id": "1462530",
+        "nome": "CARRION Deluxe Edition Content",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1462530/header.jpg"
+    },
+    {
+        "id": "1465360",
+        "nome": "Steam App 1465360",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1465360/header.jpg"
+    },
+    {
+        "id": "1473820",
+        "nome": "Steam App 1473820",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1473820/header.jpg"
+    },
+    {
+        "id": "1488070",
+        "nome": "Steam App 1488070",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1488070/header.jpg"
+    },
+    {
+        "id": "1506830",
+        "nome": "Steam App 1506830",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1506830/header.jpg"
+    },
+    {
+        "id": "1507580",
+        "nome": "Steam App 1507580",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1507580/header.jpg"
+    },
+    {
+        "id": "1511630",
+        "nome": "TrackDayR",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1511630/header.jpg"
+    },
+    {
+        "id": "15120",
+        "nome": "Steam App 15120",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/15120/header.jpg"
+    },
+    {
+        "id": "1514840",
+        "nome": "Steam App 1514840",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1514840/header.jpg"
+    },
+    {
+        "id": "1518770",
+        "nome": "Steam App 1518770",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1518770/header.jpg"
+    },
+    {
+        "id": "1525890",
+        "nome": "Steam App 1525890",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1525890/header.jpg"
+    },
+    {
+        "id": "1532460",
+        "nome": "Steam App 1532460",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1532460/header.jpg"
+    },
+    {
+        "id": "1533390",
+        "nome": "Steam App 1533390",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1533390/header.jpg"
+    },
+    {
+        "id": "1538550",
+        "nome": "Steam App 1538550",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1538550/header.jpg"
+    },
+    {
+        "id": "1544020",
+        "nome": "Steam App 1544020",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1544020/header.jpg"
+    },
+    {
+        "id": "1544360",
+        "nome": "Steam App 1544360",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1544360/header.jpg"
+    },
+    {
+        "id": "1546970",
+        "nome": "Steam App 1546970",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1546970/header.jpg"
+    },
+    {
+        "id": "1546990",
+        "nome": "Steam App 1546990",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1546990/header.jpg"
+    },
+    {
+        "id": "1547000",
+        "nome": "Steam App 1547000",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1547000/header.jpg"
+    },
+    {
+        "id": "1551360",
+        "nome": "Steam App 1551360",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1551360/header.jpg"
+    },
+    {
+        "id": "1552310",
+        "nome": "Steam App 1552310",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1552310/header.jpg"
+    },
+    {
+        "id": "1553910",
+        "nome": "Steam App 1553910",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1553910/header.jpg"
+    },
+    {
+        "id": "1556790",
+        "nome": "Steam App 1556790",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1556790/header.jpg"
+    },
+    {
+        "id": "1560250",
+        "nome": "Rising Front",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1560250/header.jpg"
+    },
+    {
+        "id": "1562430",
+        "nome": "Steam App 1562430",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1562430/header.jpg"
+    },
+    {
+        "id": "1577120",
+        "nome": "Steam App 1577120",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1577120/header.jpg"
+    },
+    {
+        "id": "1580790",
+        "nome": "Steam App 1580790",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1580790/header.jpg"
+    },
+    {
+        "id": "1585220",
+        "nome": "Steam App 1585220",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1585220/header.jpg"
+    },
+    {
+        "id": "1590910",
+        "nome": "Forgive Me Father",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1590910/header.jpg"
+    },
+    {
+        "id": "1593500",
+        "nome": "Steam App 1593500",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1593500/header.jpg"
+    },
+    {
+        "id": "1599660",
+        "nome": "Steam App 1599660",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1599660/header.jpg"
+    },
+    {
+        "id": "1601570",
+        "nome": "Steam App 1601570",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1601570/header.jpg"
+    },
+    {
+        "id": "1601580",
+        "nome": "Steam App 1601580",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1601580/header.jpg"
+    },
+    {
+        "id": "1608070",
+        "nome": "Steam App 1608070",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1608070/header.jpg"
+    },
+    {
+        "id": "1610460",
+        "nome": "Steam App 1610460",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1610460/header.jpg"
+    },
+    {
+        "id": "1610470",
+        "nome": "Steam App 1610470",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1610470/header.jpg"
+    },
+    {
+        "id": "1612770",
+        "nome": "Steam App 1612770",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1612770/header.jpg"
+    },
+    {
+        "id": "1620730",
+        "nome": "Steam App 1620730",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1620730/header.jpg"
+    },
+    {
+        "id": "1622710",
+        "nome": "Steam App 1622710",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1622710/header.jpg"
+    },
+    {
+        "id": "1623730",
+        "nome": "Steam App 1623730",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1623730/header.jpg"
+    },
+    {
+        "id": "1627720",
+        "nome": "Steam App 1627720",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1627720/header.jpg"
+    },
+    {
+        "id": "1630110",
+        "nome": "Steam App 1630110",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1630110/header.jpg"
+    },
+    {
+        "id": "1631160",
+        "nome": "Steam App 1631160",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1631160/header.jpg"
+    },
+    {
+        "id": "1634703",
+        "nome": "Steam App 1634703",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1634703/header.jpg"
+    },
+    {
+        "id": "1634910",
+        "nome": "Steam App 1634910",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1634910/header.jpg"
+    },
+    {
+        "id": "1643320",
+        "nome": "Steam App 1643320",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1643320/header.jpg"
+    },
+    {
+        "id": "1644960",
+        "nome": "Steam App 1644960",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1644960/header.jpg"
+    },
+    {
+        "id": "1645820",
+        "nome": "Steam App 1645820",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1645820/header.jpg"
+    },
+    {
+        "id": "1649240",
+        "nome": "Steam App 1649240",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1649240/header.jpg"
+    },
+    {
+        "id": "1649950",
+        "nome": "Steam App 1649950",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1649950/header.jpg"
+    },
+    {
+        "id": "1650010",
+        "nome": "Steam App 1650010",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1650010/header.jpg"
+    },
+    {
+        "id": "1659040",
+        "nome": "Steam App 1659040",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1659040/header.jpg"
+    },
+    {
+        "id": "1659420",
+        "nome": "Steam App 1659420",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1659420/header.jpg"
+    },
+    {
+        "id": "1665780",
+        "nome": "Steam App 1665780",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1665780/header.jpg"
+    },
+    {
+        "id": "1670870",
+        "nome": "Steam App 1670870",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1670870/header.jpg"
+    },
+    {
+        "id": "1671210",
+        "nome": "Steam App 1671210",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1671210/header.jpg"
+    },
+    {
+        "id": "1671340",
+        "nome": "Steam App 1671340",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1671340/header.jpg"
+    },
+    {
+        "id": "1672970",
+        "nome": "Steam App 1672970",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1672970/header.jpg"
+    },
+    {
+        "id": "1680880",
+        "nome": "Steam App 1680880",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1680880/header.jpg"
+    },
+    {
+        "id": "1681430",
+        "nome": "Steam App 1681430",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1681430/header.jpg"
+    },
+    {
+        "id": "1685750",
+        "nome": "Steam App 1685750",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1685750/header.jpg"
+    },
+    {
+        "id": "1687950",
+        "nome": "Steam App 1687950",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1687950/header.jpg"
+    },
+    {
+        "id": "1689620",
+        "nome": "Steam App 1689620",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1689620/header.jpg"
+    },
+    {
+        "id": "1693980",
+        "nome": "Steam App 1693980",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1693980/header.jpg"
+    },
+    {
+        "id": "1699320",
+        "nome": "Steam App 1699320",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1699320/header.jpg"
+    },
+    {
+        "id": "1712620",
+        "nome": "Steam App 1712620",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1712620/header.jpg"
+    },
+    {
+        "id": "1714460",
+        "nome": "Steam App 1714460",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1714460/header.jpg"
+    },
+    {
+        "id": "1715130",
+        "nome": "Steam App 1715130",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1715130/header.jpg"
+    },
+    {
+        "id": "1716740",
+        "nome": "Steam App 1716740",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1716740/header.jpg"
+    },
+    {
+        "id": "1721060",
+        "nome": "Steam App 1721060",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1721060/header.jpg"
+    },
+    {
+        "id": "1721110",
+        "nome": "Steam App 1721110",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1721110/header.jpg"
+    },
+    {
+        "id": "1721470",
+        "nome": "Steam App 1721470",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1721470/header.jpg"
+    },
+    {
+        "id": "1728590",
+        "nome": "Steam App 1728590",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1728590/header.jpg"
+    },
+    {
+        "id": "1731460",
+        "nome": "Steam App 1731460",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1731460/header.jpg"
+    },
+    {
+        "id": "1732190",
+        "nome": "Steam App 1732190",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1732190/header.jpg"
+    },
+    {
+        "id": "1735700",
+        "nome": "Steam App 1735700",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1735700/header.jpg"
+    },
+    {
+        "id": "1737870",
+        "nome": "Steam App 1737870",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1737870/header.jpg"
+    },
+    {
+        "id": "17390",
+        "nome": "Steam App 17390",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/17390/header.jpg"
+    },
+    {
+        "id": "17410",
+        "nome": "Steam App 17410",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/17410/header.jpg"
+    },
+    {
+        "id": "17430",
+        "nome": "Steam App 17430",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/17430/header.jpg"
+    },
+    {
+        "id": "17440",
+        "nome": "Steam App 17440",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/17440/header.jpg"
+    },
+    {
+        "id": "1744330",
+        "nome": "Steam App 1744330",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1744330/header.jpg"
+    },
+    {
+        "id": "17470",
+        "nome": "Steam App 17470",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/17470/header.jpg"
+    },
+    {
+        "id": "1754860",
+        "nome": "Steam App 1754860",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1754860/header.jpg"
+    },
+    {
+        "id": "1757300",
+        "nome": "Steam App 1757300",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1757300/header.jpg"
+    },
+    {
+        "id": "1763050",
+        "nome": "Steam App 1763050",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1763050/header.jpg"
+    },
+    {
+        "id": "1766060",
+        "nome": "Steam App 1766060",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1766060/header.jpg"
+    },
+    {
+        "id": "1767570",
+        "nome": "Steam App 1767570",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1767570/header.jpg"
+    },
+    {
+        "id": "1771300",
+        "nome": "Steam App 1771300",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1771300/header.jpg"
+    },
+    {
+        "id": "1778280",
+        "nome": "Steam App 1778280",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1778280/header.jpg"
+    },
+    {
+        "id": "1778820",
+        "nome": "Steam App 1778820",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1778820/header.jpg"
+    },
+    {
+        "id": "1783560",
+        "nome": "Steam App 1783560",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1783560/header.jpg"
+    },
+    {
+        "id": "1785650",
+        "nome": "Steam App 1785650",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1785650/header.jpg"
+    },
+    {
+        "id": "1790600",
+        "nome": "Steam App 1790600",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1790600/header.jpg"
+    },
+    {
+        "id": "1794680",
+        "nome": "Steam App 1794680",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1794680/header.jpg"
+    },
+    {
+        "id": "1798010",
+        "nome": "Steam App 1798010",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1798010/header.jpg"
+    },
+    {
+        "id": "1798020",
+        "nome": "Steam App 1798020",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1798020/header.jpg"
+    },
+    {
+        "id": "1802980",
+        "nome": "Steam App 1802980",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1802980/header.jpg"
+    },
+    {
+        "id": "1809540",
+        "nome": "Steam App 1809540",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1809540/header.jpg"
+    },
+    {
+        "id": "1813690",
+        "nome": "Steam App 1813690",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1813690/header.jpg"
+    },
+    {
+        "id": "1817070",
+        "nome": "Steam App 1817070",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1817070/header.jpg"
+    },
+    {
+        "id": "1817190",
+        "nome": "Steam App 1817190",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1817190/header.jpg"
+    },
+    {
+        "id": "1817230",
+        "nome": "Steam App 1817230",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1817230/header.jpg"
+    },
+    {
+        "id": "1817490",
+        "nome": "Steam App 1817490",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1817490/header.jpg"
+    },
+    {
+        "id": "1839940",
+        "nome": "Steam App 1839940",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1839940/header.jpg"
+    },
+    {
+        "id": "1840650",
+        "nome": "Steam App 1840650",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1840650/header.jpg"
+    },
+    {
+        "id": "1846170",
+        "nome": "Steam App 1846170",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1846170/header.jpg"
+    },
+    {
+        "id": "1846460",
+        "nome": "Burnhouse Lane",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1846460/header.jpg"
+    },
+    {
+        "id": "1848450",
+        "nome": "Nightmare of Decay",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1848450/header.jpg"
+    },
+    {
+        "id": "1849370",
+        "nome": "SGS Pacific D-Day",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1849370/header.jpg"
+    },
+    {
+        "id": "1850570",
+        "nome": "DEATH STRANDING DIRECTOR'S CUT",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1850570/header.jpg"
+    },
+    {
+        "id": "1857950",
+        "nome": "VEIN",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1857950/header.jpg"
+    },
+    {
+        "id": "1858630",
+        "nome": "SWORD ART ONLINE Fractured Daydream",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1858630/header.jpg"
+    },
+    {
+        "id": "1866980",
+        "nome": "Worlds of Aria",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1866980/header.jpg"
+    },
+    {
+        "id": "1868140",
+        "nome": "DAVE THE DIVER",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1868140/header.jpg"
+    },
+    {
+        "id": "1874000",
+        "nome": "Life is Strange: Double Exposure",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1874000/header.jpg"
+    },
+    {
+        "id": "1880610",
+        "nome": "Deliver At All Costs",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1880610/header.jpg"
+    },
+    {
+        "id": "1888930",
+        "nome": "The Last of Us™ Part I",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1888930/header.jpg"
+    },
+    {
+        "id": "1893820",
+        "nome": "Jumplight Odyssey",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1893820/header.jpg"
+    },
+    {
+        "id": "1898290",
+        "nome": "LEGO® Bricktales",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1898290/header.jpg"
+    },
+    {
+        "id": "19000",
+        "nome": "Silent Hill Homecoming",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/19000/header.jpg"
+    },
+    {
+        "id": "1903340",
+        "nome": "Clair Obscur: Expedition 33",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1903340/header.jpg"
+    },
+    {
+        "id": "1904860",
+        "nome": "Legends of Kingdom Rush",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1904860/header.jpg"
+    },
+    {
+        "id": "1911610",
+        "nome": "Windblown",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1911610/header.jpg"
+    },
+    {
+        "id": "1919590",
+        "nome": "NBA 2K23",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1919590/header.jpg"
+    },
+    {
+        "id": "1922740",
+        "nome": "Crisis in the Kremlin: The Cold War",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1922740/header.jpg"
+    },
+    {
+        "id": "1928870",
+        "nome": "Minecraft Legends",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1928870/header.jpg"
+    },
+    {
+        "id": "1933740",
+        "nome": "The Caligula Effect 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1933740/header.jpg"
+    },
+    {
+        "id": "1934040",
+        "nome": "Miniland Adventure",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1934040/header.jpg"
+    },
+    {
+        "id": "1934570",
+        "nome": "South of Midnight",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1934570/header.jpg"
+    },
+    {
+        "id": "1954200",
+        "nome": "Kena: Bridge of Spirits",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1954200/header.jpg"
+    },
+    {
+        "id": "1962600",
+        "nome": "Four Course Dungeon",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1962600/header.jpg"
+    },
+    {
+        "id": "1966720",
+        "nome": "Lethal Company",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1966720/header.jpg"
+    },
+    {
+        "id": "19680",
+        "nome": "Alice: Madness Returns",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/19680/header.jpg"
+    },
+    {
+        "id": "1969370",
+        "nome": "LEGO® Party!",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1969370/header.jpg"
+    },
+    {
+        "id": "1984270",
+        "nome": "Digimon Story Time Stranger",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1984270/header.jpg"
+    },
+    {
+        "id": "2001120",
+        "nome": "Split Fiction",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2001120/header.jpg"
+    },
+    {
+        "id": "200260",
+        "nome": "Batman: Arkham City - Game of the Year Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/200260/header.jpg"
+    },
+    {
+        "id": "2014380",
+        "nome": "LIVE A LIVE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2014380/header.jpg"
+    },
+    {
+        "id": "201700",
+        "nome": "Steam App 201700",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/201700/header.jpg"
+    },
+    {
+        "id": "201810",
+        "nome": "Wolfenstein: The New Order",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/201810/header.jpg"
+    },
+    {
+        "id": "201830",
+        "nome": "Jurassic Park: The Game",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/201830/header.jpg"
+    },
+    {
+        "id": "202530",
+        "nome": "Sonic the Hedgehog 4 - Episode I",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/202530/header.jpg"
+    },
+    {
+        "id": "2026820",
+        "nome": "Die in the Dungeon",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2026820/header.jpg"
+    },
+    {
+        "id": "202750",
+        "nome": "Alan Wake's American Nightmare",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/202750/header.jpg"
+    },
+    {
+        "id": "202970",
+        "nome": "Call of Duty®: Black Ops II",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/202970/header.jpg"
+    },
+    {
+        "id": "203140",
+        "nome": "Hitman: Absolution™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/203140/header.jpg"
+    },
+    {
+        "id": "203160",
+        "nome": "Tomb Raider Game of the Year",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/203160/header.jpg"
+    },
+    {
+        "id": "203650",
+        "nome": "Sonic the Hedgehog 4 - Episode II",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/203650/header.jpg"
+    },
+    {
+        "id": "204100",
+        "nome": "Max Payne 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/204100/header.jpg"
+    },
+    {
+        "id": "204120",
+        "nome": "LEGO® Harry Potter: Years 5-7",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/204120/header.jpg"
+    },
+    {
+        "id": "204450",
+        "nome": "Call of Juarez: Gunslinger",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/204450/header.jpg"
+    },
+    {
+        "id": "2050650",
+        "nome": "Resident Evil 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2050650/header.jpg"
+    },
+    {
+        "id": "205100",
+        "nome": "Dishonored",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/205100/header.jpg"
+    },
+    {
+        "id": "2051120",
+        "nome": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2051120/header.jpg"
+    },
+    {
+        "id": "205190",
+        "nome": "Rocksmith™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/205190/header.jpg"
+    },
+    {
+        "id": "2052550",
+        "nome": "Hit and Boom Beta Playtest",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2052550/header.jpg"
+    },
+    {
+        "id": "205350",
+        "nome": "Mortal Kombat Kollection",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/205350/header.jpg"
+    },
+    {
+        "id": "2055290",
+        "nome": "Sonic Colors: Ultimate",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2055290/header.jpg"
+    },
+    {
+        "id": "2058750",
+        "nome": "Monster Energy Supercross - The Official Videogame 6",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2058750/header.jpg"
+    },
+    {
+        "id": "2070270",
+        "nome": "Cloudheim",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2070270/header.jpg"
+    },
+    {
+        "id": "2071280",
+        "nome": "Ravenswatch",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2071280/header.jpg"
+    },
+    {
+        "id": "207490",
+        "nome": "Rayman® Origins",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/207490/header.jpg"
+    },
+    {
+        "id": "207610",
+        "nome": "The Walking Dead",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/207610/header.jpg"
+    },
+    {
+        "id": "208480",
+        "nome": "Assassin’s Creed® III",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/208480/header.jpg"
+    },
+    {
+        "id": "2085440",
+        "nome": "Passing By - A Tailwind Journey",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2085440/header.jpg"
+    },
+    {
+        "id": "208650",
+        "nome": "Batman™: Arkham Knight",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/208650/header.jpg"
+    },
+    {
+        "id": "209000",
+        "nome": "Batman™: Arkham Origins",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/209000/header.jpg"
+    },
+    {
+        "id": "20920",
+        "nome": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/20920/header.jpg"
+    },
+    {
+        "id": "209330",
+        "nome": "A Valley Without Wind",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/209330/header.jpg"
+    },
+    {
+        "id": "21000",
+        "nome": "LEGO® Batman™: The Videogame",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/21000/header.jpg"
+    },
+    {
+        "id": "2100160",
+        "nome": "MotoGP™23",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2100160/header.jpg"
+    },
+    {
+        "id": "2101960",
+        "nome": "Cronos: The New Dawn",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2101960/header.jpg"
+    },
+    {
+        "id": "2104890",
+        "nome": "RoadCraft",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2104890/header.jpg"
+    },
+    {
+        "id": "210550",
+        "nome": "Angry Birds Space",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/210550/header.jpg"
+    },
+    {
+        "id": "21130",
+        "nome": "LEGO® Harry Potter: Years 1-4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/21130/header.jpg"
+    },
+    {
+        "id": "2114740",
+        "nome": "Blasphemous 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2114740/header.jpg"
+    },
+    {
+        "id": "2115530",
+        "nome": "Grandmaster's Revenge",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2115530/header.jpg"
+    },
+    {
+        "id": "2120900",
+        "nome": "Fears to Fathom - Carson House",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2120900/header.jpg"
+    },
+    {
+        "id": "2124490",
+        "nome": "SILENT HILL 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2124490/header.jpg"
+    },
+    {
+        "id": "212580",
+        "nome": "Steam App 212580",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/212580/header.jpg"
+    },
+    {
+        "id": "2130460",
+        "nome": "FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2130460/header.jpg"
+    },
+    {
+        "id": "2131630",
+        "nome": "METAL GEAR SOLID - Master Collection Version",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2131630/header.jpg"
+    },
+    {
+        "id": "2131640",
+        "nome": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2131640/header.jpg"
+    },
+    {
+        "id": "2131680",
+        "nome": "METAL GEAR & METAL GEAR 2: Solid Snake",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2131680/header.jpg"
+    },
+    {
+        "id": "213330",
+        "nome": "LEGO® Batman™ 2: DC Super Heroes",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/213330/header.jpg"
+    },
+    {
+        "id": "2133760",
+        "nome": "Tiny Bookshop",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2133760/header.jpg"
+    },
+    {
+        "id": "2135150",
+        "nome": "Elin",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2135150/header.jpg"
+    },
+    {
+        "id": "213610",
+        "nome": "Sonic Adventure 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/213610/header.jpg"
+    },
+    {
+        "id": "213670",
+        "nome": "South Park™: The Stick of Truth™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/213670/header.jpg"
+    },
+    {
+        "id": "2138710",
+        "nome": "Sifu",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2138710/header.jpg"
+    },
+    {
+        "id": "2141730",
+        "nome": "Backrooms: Escape Together",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2141730/header.jpg"
+    },
+    {
+        "id": "214490",
+        "nome": "Alien: Isolation",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/214490/header.jpg"
+    },
+    {
+        "id": "214510",
+        "nome": "LEGO® The Lord of the Rings™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/214510/header.jpg"
+    },
+    {
+        "id": "2147670",
+        "nome": "Meme Quiz",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2147670/header.jpg"
+    },
+    {
+        "id": "2149010",
+        "nome": "Little Nightmares Enhanced Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2149010/header.jpg"
+    },
+    {
+        "id": "215530",
+        "nome": "The Incredible Adventures of Van Helsing",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/215530/header.jpg"
+    },
+    {
+        "id": "21690",
+        "nome": "Resident Evil 5",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/21690/header.jpg"
+    },
+    {
+        "id": "2170420",
+        "nome": "Starsiege: Deadzone",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2170420/header.jpg"
+    },
+    {
+        "id": "2171420",
+        "nome": "Platonically Mauled by a Magic Cougar",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2171420/header.jpg"
+    },
+    {
+        "id": "2171440",
+        "nome": "Fear & Hunger 2: Termina",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2171440/header.jpg"
+    },
+    {
+        "id": "2171450",
+        "nome": "Bizarr Adventure",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2171450/header.jpg"
+    },
+    {
+        "id": "2172010",
+        "nome": "Until Dawn™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2172010/header.jpg"
+    },
+    {
+        "id": "217980",
+        "nome": "Steam App 217980",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/217980/header.jpg"
+    },
+    {
+        "id": "218620",
+        "nome": "PAYDAY 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/218620/header.jpg"
+    },
+    {
+        "id": "2190590",
+        "nome": "Valkie 64",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2190590/header.jpg"
+    },
+    {
+        "id": "2191950",
+        "nome": "东方夜雀食堂DLC3扩展包 - 命莲寺&神灵庙",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2191950/header.jpg"
+    },
+    {
+        "id": "2193540",
+        "nome": "Wizard of Legend 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2193540/header.jpg"
+    },
+    {
+        "id": "219740",
+        "nome": "Don't Starve",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/219740/header.jpg"
+    },
+    {
+        "id": "21980",
+        "nome": "Call of Juarez: Bound in Blood",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/21980/header.jpg"
+    },
+    {
+        "id": "21990",
+        "nome": "TMNT™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/21990/header.jpg"
+    },
+    {
+        "id": "2199420",
+        "nome": "Brickadia",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2199420/header.jpg"
+    },
+    {
+        "id": "220",
+        "nome": "Half-Life 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/220/header.jpg"
+    },
+    {
+        "id": "220050",
+        "nome": "Steam App 220050",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/220050/header.jpg"
+    },
+    {
+        "id": "2200780",
+        "nome": "My Dream Setup",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2200780/header.jpg"
+    },
+    {
+        "id": "220200",
+        "nome": "Kerbal Space Program",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/220200/header.jpg"
+    },
+    {
+        "id": "220240",
+        "nome": "Far Cry 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/220240/header.jpg"
+    },
+    {
+        "id": "220440",
+        "nome": "DmC: Devil May Cry",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/220440/header.jpg"
+    },
+    {
+        "id": "2208920",
+        "nome": "Assassin's Creed Valhalla",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2208920/header.jpg"
+    },
+    {
+        "id": "221040",
+        "nome": "Resident Evil 6",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/221040/header.jpg"
+    },
+    {
+        "id": "2214000",
+        "nome": "Top Racer Collection",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2214000/header.jpg"
+    },
+    {
+        "id": "2214080",
+        "nome": "Die in the Dungeon: PROLOGUE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2214080/header.jpg"
+    },
+    {
+        "id": "2215200",
+        "nome": "LEGO® Batman™: O Legado do Cavaleiro das Trevas",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2215200/header.jpg"
+    },
+    {
+        "id": "2215390",
+        "nome": "Five Nights at Freddy's: Secret of the Mimic",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2215390/header.jpg"
+    },
+    {
+        "id": "2215430",
+        "nome": "Ghost of Tsushima VERSÃO DO DIRETOR",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2215430/header.jpg"
+    },
+    {
+        "id": "222420",
+        "nome": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/222420/header.jpg"
+    },
+    {
+        "id": "222840",
+        "nome": "Steam App 222840",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/222840/header.jpg"
+    },
+    {
+        "id": "222860",
+        "nome": "Left 4 Dead 2 Dedicated Server",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/222860/header.jpg"
+    },
+    {
+        "id": "223100",
+        "nome": "Homefront®: The Revolution",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/223100/header.jpg"
+    },
+    {
+        "id": "22320",
+        "nome": "The Elder Scrolls III: Morrowind® Game of the Year Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/22320/header.jpg"
+    },
+    {
+        "id": "22330",
+        "nome": "The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009)",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/22330/header.jpg"
+    },
+    {
+        "id": "223350",
+        "nome": "Steam App 223350",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/223350/header.jpg"
+    },
+    {
+        "id": "2239150",
+        "nome": "Thronefall",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2239150/header.jpg"
+    },
+    {
+        "id": "2239550",
+        "nome": "Watch Dogs®: Legion",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2239550/header.jpg"
+    },
+    {
+        "id": "224060",
+        "nome": "Steam App 224060",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/224060/header.jpg"
+    },
+    {
+        "id": "224580",
+        "nome": "Arma II: DayZ Mod",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/224580/header.jpg"
+    },
+    {
+        "id": "224920",
+        "nome": "Legacy of Kain: Soul Reaver",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/224920/header.jpg"
+    },
+    {
+        "id": "2250080",
+        "nome": "The Last Man Survivor",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2250080/header.jpg"
+    },
+    {
+        "id": "2250820",
+        "nome": "Party Party Time",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2250820/header.jpg"
+    },
+    {
+        "id": "225540",
+        "nome": "Just Cause™ 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/225540/header.jpg"
+    },
+    {
+        "id": "22600",
+        "nome": "Worms Reloaded",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/22600/header.jpg"
+    },
+    {
+        "id": "2266780",
+        "nome": "Ascendant",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2266780/header.jpg"
+    },
+    {
+        "id": "2270",
+        "nome": "Wolfenstein 3D",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2270/header.jpg"
+    },
+    {
+        "id": "2272540",
+        "nome": "FBC: Firebreak",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2272540/header.jpg"
+    },
+    {
+        "id": "227300",
+        "nome": "Euro Truck Simulator 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/227300/header.jpg"
+    },
+    {
+        "id": "2276830",
+        "nome": "Kingsvein",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2276830/header.jpg"
+    },
+    {
+        "id": "228200",
+        "nome": "Company of Heroes",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/228200/header.jpg"
+    },
+    {
+        "id": "228560",
+        "nome": "Teenage Mutant Ninja Turtles™: Out of the Shadows",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/228560/header.jpg"
+    },
+    {
+        "id": "2287520",
+        "nome": "Five Nights at Freddy's: Help Wanted 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2287520/header.jpg"
+    },
+    {
+        "id": "2288350",
+        "nome": "RAIDOU Remastered: The Mystery of the Soulless Army",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2288350/header.jpg"
+    },
+    {
+        "id": "2290000",
+        "nome": "TerraScape",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2290000/header.jpg"
+    },
+    {
+        "id": "2290180",
+        "nome": "Riders Republic",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2290180/header.jpg"
+    },
+    {
+        "id": "2298630",
+        "nome": "E30 Drift Car Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2298630/header.jpg"
+    },
+    {
+        "id": "2300320",
+        "nome": "Farming Simulator 25",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2300320/header.jpg"
+    },
+    {
+        "id": "230290",
+        "nome": "Universe Sandbox",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/230290/header.jpg"
+    },
+    {
+        "id": "2306740",
+        "nome": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2306740/header.jpg"
+    },
+    {
+        "id": "2309400",
+        "nome": "The Devourer: Hunted Souls",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2309400/header.jpg"
+    },
+    {
+        "id": "2313700",
+        "nome": "Constance",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2313700/header.jpg"
+    },
+    {
+        "id": "2322010",
+        "nome": "God of War Ragnarök",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2322010/header.jpg"
+    },
+    {
+        "id": "2322380",
+        "nome": "Bob Esponja™: O Jogo do Patrick Estrela",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2322380/header.jpg"
+    },
+    {
+        "id": "234080",
+        "nome": "Castlevania: Lords of Shadow – Ultimate Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/234080/header.jpg"
+    },
+    {
+        "id": "234140",
+        "nome": "Mad Max",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/234140/header.jpg"
+    },
+    {
+        "id": "234630",
+        "nome": "Project CARS",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/234630/header.jpg"
+    },
+    {
+        "id": "234670",
+        "nome": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/234670/header.jpg"
+    },
+    {
+        "id": "2350270",
+        "nome": "Primal Planet",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2350270/header.jpg"
+    },
+    {
+        "id": "2350790",
+        "nome": "Moonlighter 2: The Endless Vault",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2350790/header.jpg"
+    },
+    {
+        "id": "235460",
+        "nome": "METAL GEAR RISING: REVENGEANCE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/235460/header.jpg"
+    },
+    {
+        "id": "2358720",
+        "nome": "Black Myth: Wukong",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2358720/header.jpg"
+    },
+    {
+        "id": "2360770",
+        "nome": "Coreupt",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2360770/header.jpg"
+    },
+    {
+        "id": "2361770",
+        "nome": "SHINOBI: Art of Vengeance",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2361770/header.jpg"
+    },
+    {
+        "id": "2362300",
+        "nome": "Train Sim World® 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2362300/header.jpg"
+    },
+    {
+        "id": "236430",
+        "nome": "DARK SOULS™ II",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/236430/header.jpg"
+    },
+    {
+        "id": "236450",
+        "nome": "PAC-MAN™ Championship Edition DX+",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/236450/header.jpg"
+    },
+    {
+        "id": "236470",
+        "nome": "PAC-MAN MUSEUM™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/236470/header.jpg"
+    },
+    {
+        "id": "2369390",
+        "nome": "Far Cry® 6",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2369390/header.jpg"
+    },
+    {
+        "id": "2369900",
+        "nome": "Castlevania Dominus Collection",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2369900/header.jpg"
+    },
+    {
+        "id": "237110",
+        "nome": "Mortal Kombat Komplete Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/237110/header.jpg"
+    },
+    {
+        "id": "2373990",
+        "nome": "Solo Leveling: ARISE OVERDRIVE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2373990/header.jpg"
+    },
+    {
+        "id": "2377280",
+        "nome": "Eriksholm: The Stolen Dream",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2377280/header.jpg"
+    },
+    {
+        "id": "2378900",
+        "nome": "The Coffin of Andy and Leyley",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2378900/header.jpg"
+    },
+    {
+        "id": "2379780",
+        "nome": "Balatro",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2379780/header.jpg"
+    },
+    {
+        "id": "238090",
+        "nome": "Sniper Elite 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/238090/header.jpg"
+    },
+    {
+        "id": "238320",
+        "nome": "Outlast",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/238320/header.jpg"
+    },
+    {
+        "id": "2383200",
+        "nome": "PATAPON 1+2 REPLAY",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2383200/header.jpg"
+    },
+    {
+        "id": "2384580",
+        "nome": "DYNASTY WARRIORS: ORIGINS",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2384580/header.jpg"
+    },
+    {
+        "id": "239140",
+        "nome": "Dying Light",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/239140/header.jpg"
+    },
+    {
+        "id": "239250",
+        "nome": "Castlevania: Lords of Shadow 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/239250/header.jpg"
+    },
+    {
+        "id": "2395210",
+        "nome": "Tony Hawk's™ Pro Skater™ 1 + 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2395210/header.jpg"
+    },
+    {
+        "id": "2397300",
+        "nome": "Half Sword",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2397300/header.jpg"
+    },
+    {
+        "id": "2399420",
+        "nome": "Le Mans Ultimate",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2399420/header.jpg"
+    },
+    {
+        "id": "2399830",
+        "nome": "ARK: Survival Ascended",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2399830/header.jpg"
+    },
+    {
+        "id": "240",
+        "nome": "Counter-Strike: Source",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/240/header.jpg"
+    },
+    {
+        "id": "2400430",
+        "nome": "Capcom Fighting Collection 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2400430/header.jpg"
+    },
+    {
+        "id": "2404880",
+        "nome": "Car Dealer Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2404880/header.jpg"
+    },
+    {
+        "id": "240600",
+        "nome": "MotoGP™13",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/240600/header.jpg"
+    },
+    {
+        "id": "2406770",
+        "nome": "Bodycam",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2406770/header.jpg"
+    },
+    {
+        "id": "2414550",
+        "nome": "MADiSON VR",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2414550/header.jpg"
+    },
+    {
+        "id": "241540",
+        "nome": "State of Decay",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/241540/header.jpg"
+    },
+    {
+        "id": "2417610",
+        "nome": "METAL GEAR SOLID Δ: SNAKE EATER",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2417610/header.jpg"
+    },
+    {
+        "id": "241930",
+        "nome": "Middle-earth™: Shadow of Mordor™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/241930/header.jpg"
+    },
+    {
+        "id": "2420110",
+        "nome": "Horizon Forbidden West™ - Edição Completa",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2420110/header.jpg"
+    },
+    {
+        "id": "242050",
+        "nome": "Assassin’s Creed® IV Black Flag™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/242050/header.jpg"
+    },
+    {
+        "id": "2420620",
+        "nome": "Demon Slayer Shion",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2420620/header.jpg"
+    },
+    {
+        "id": "2426530",
+        "nome": "Nova Roma",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2426530/header.jpg"
+    },
+    {
+        "id": "242700",
+        "nome": "Injustice: Gods Among Us Ultimate Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/242700/header.jpg"
+    },
+    {
+        "id": "242760",
+        "nome": "The Forest",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/242760/header.jpg"
+    },
+    {
+        "id": "2428810",
+        "nome": "LEGO® Horizon Adventures™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2428810/header.jpg"
+    },
+    {
+        "id": "243470",
+        "nome": "Watch_Dogs™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/243470/header.jpg"
+    },
+    {
+        "id": "2440510",
+        "nome": "Forza Motorsport",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2440510/header.jpg"
+    },
+    {
+        "id": "244210",
+        "nome": "Assetto Corsa",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/244210/header.jpg"
+    },
+    {
+        "id": "2442670",
+        "nome": "SS.Archives",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2442670/header.jpg"
+    },
+    {
+        "id": "244930",
+        "nome": "SNOW - The Ultimate Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/244930/header.jpg"
+    },
+    {
+        "id": "2455640",
+        "nome": "Romancing SaGa 2: Revenge of the Seven",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2455640/header.jpg"
+    },
+    {
+        "id": "2456740",
+        "nome": "inZOI",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2456740/header.jpg"
+    },
+    {
+        "id": "2457220",
+        "nome": "Steam App 2457220",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2457220/header.jpg"
+    },
+    {
+        "id": "245760",
+        "nome": "Steam App 245760",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/245760/header.jpg"
+    },
+    {
+        "id": "2461850",
+        "nome": "Steam App 2461850",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2461850/header.jpg"
+    },
+    {
+        "id": "246420",
+        "nome": "Steam App 246420",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/246420/header.jpg"
+    },
+    {
+        "id": "246620",
+        "nome": "Steam App 246620",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/246620/header.jpg"
+    },
+    {
+        "id": "24720",
+        "nome": "Steam App 24720",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/24720/header.jpg"
+    },
+    {
+        "id": "24740",
+        "nome": "Steam App 24740",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/24740/header.jpg"
+    },
+    {
+        "id": "2475490",
+        "nome": "Steam App 2475490",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2475490/header.jpg"
+    },
+    {
+        "id": "2478330",
+        "nome": "Steam App 2478330",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2478330/header.jpg"
+    },
+    {
+        "id": "2479810",
+        "nome": "Steam App 2479810",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2479810/header.jpg"
+    },
+    {
+        "id": "2483190",
+        "nome": "Steam App 2483190",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2483190/header.jpg"
+    },
+    {
+        "id": "24840",
+        "nome": "Steam App 24840",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/24840/header.jpg"
+    },
+    {
+        "id": "2486820",
+        "nome": "Steam App 2486820",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2486820/header.jpg"
+    },
+    {
+        "id": "24870",
+        "nome": "Steam App 24870",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/24870/header.jpg"
+    },
+    {
+        "id": "2487060",
+        "nome": "Steam App 2487060",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2487060/header.jpg"
+    },
+    {
+        "id": "248820",
+        "nome": "Steam App 248820",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/248820/header.jpg"
+    },
+    {
+        "id": "249130",
+        "nome": "Steam App 249130",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/249130/header.jpg"
+    },
+    {
+        "id": "2492040",
+        "nome": "Steam App 2492040",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2492040/header.jpg"
+    },
+    {
+        "id": "250320",
+        "nome": "Steam App 250320",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/250320/header.jpg"
+    },
+    {
+        "id": "2506160",
+        "nome": "Steam App 2506160",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2506160/header.jpg"
+    },
+    {
+        "id": "250900",
+        "nome": "Steam App 250900",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/250900/header.jpg"
+    },
+    {
+        "id": "2515020",
+        "nome": "Steam App 2515020",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2515020/header.jpg"
+    },
+    {
+        "id": "251570",
+        "nome": "Steam App 251570",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/251570/header.jpg"
+    },
+    {
+        "id": "252490",
+        "nome": "Steam App 252490",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/252490/header.jpg"
+    },
+    {
+        "id": "2527500",
+        "nome": "Steam App 2527500",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2527500/header.jpg"
+    },
+    {
+        "id": "2527580",
+        "nome": "Steam App 2527580",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2527580/header.jpg"
+    },
+    {
+        "id": "253110",
+        "nome": "Steam App 253110",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/253110/header.jpg"
+    },
+    {
+        "id": "2531310",
+        "nome": "Steam App 2531310",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2531310/header.jpg"
+    },
+    {
+        "id": "2537590",
+        "nome": "Steam App 2537590",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2537590/header.jpg"
+    },
+    {
+        "id": "254200",
+        "nome": "Steam App 254200",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/254200/header.jpg"
+    },
+    {
+        "id": "2542120",
+        "nome": "Steam App 2542120",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2542120/header.jpg"
+    },
+    {
+        "id": "2545360",
+        "nome": "Steam App 2545360",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2545360/header.jpg"
+    },
+    {
+        "id": "2545710",
+        "nome": "Steam App 2545710",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2545710/header.jpg"
+    },
+    {
+        "id": "254700",
+        "nome": "Steam App 254700",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/254700/header.jpg"
+    },
+    {
+        "id": "255220",
+        "nome": "Steam App 255220",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/255220/header.jpg"
+    },
+    {
+        "id": "2552430",
+        "nome": "Steam App 2552430",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2552430/header.jpg"
+    },
+    {
+        "id": "2552440",
+        "nome": "Steam App 2552440",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2552440/header.jpg"
+    },
+    {
+        "id": "2555190",
+        "nome": "Steam App 2555190",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2555190/header.jpg"
+    },
+    {
+        "id": "2561580",
+        "nome": "Steam App 2561580",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2561580/header.jpg"
+    },
+    {
+        "id": "256330",
+        "nome": "Steam App 256330",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/256330/header.jpg"
+    },
+    {
+        "id": "256370",
+        "nome": "Steam App 256370",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/256370/header.jpg"
+    },
+    {
+        "id": "256390",
+        "nome": "Steam App 256390",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/256390/header.jpg"
+    },
+    {
+        "id": "2567490",
+        "nome": "Steam App 2567490",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2567490/header.jpg"
+    },
+    {
+        "id": "2575060",
+        "nome": "Steam App 2575060",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2575060/header.jpg"
+    },
+    {
+        "id": "257850",
+        "nome": "Steam App 257850",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/257850/header.jpg"
+    },
+    {
+        "id": "2581700",
+        "nome": "Steam App 2581700",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2581700/header.jpg"
+    },
+    {
+        "id": "2592160",
+        "nome": "Steam App 2592160",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2592160/header.jpg"
+    },
+    {
+        "id": "2600",
+        "nome": "Steam App 2600",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2600/header.jpg"
+    },
+    {
+        "id": "2603040",
+        "nome": "Steam App 2603040",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2603040/header.jpg"
+    },
+    {
+        "id": "2610",
+        "nome": "Steam App 2610",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2610/header.jpg"
+    },
+    {
+        "id": "261030",
+        "nome": "Steam App 261030",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/261030/header.jpg"
+    },
+    {
+        "id": "261550",
+        "nome": "Steam App 261550",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/261550/header.jpg"
+    },
+    {
+        "id": "261570",
+        "nome": "Steam App 261570",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/261570/header.jpg"
+    },
+    {
+        "id": "2623190",
+        "nome": "Steam App 2623190",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2623190/header.jpg"
+    },
+    {
+        "id": "2638370",
+        "nome": "Steam App 2638370",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2638370/header.jpg"
+    },
+    {
+        "id": "2646460",
+        "nome": "Steam App 2646460",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2646460/header.jpg"
+    },
+    {
+        "id": "264710",
+        "nome": "Steam App 264710",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/264710/header.jpg"
+    },
+    {
+        "id": "2651280",
+        "nome": "Steam App 2651280",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2651280/header.jpg"
+    },
+    {
+        "id": "2653790",
+        "nome": "Steam App 2653790",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2653790/header.jpg"
+    },
+    {
+        "id": "265550",
+        "nome": "Steam App 265550",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/265550/header.jpg"
+    },
+    {
+        "id": "2656450",
+        "nome": "Steam App 2656450",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2656450/header.jpg"
+    },
+    {
+        "id": "2660460",
+        "nome": "Steam App 2660460",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2660460/header.jpg"
+    },
+    {
+        "id": "2661300",
+        "nome": "Steam App 2661300",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2661300/header.jpg"
+    },
+    {
+        "id": "2668510",
+        "nome": "Steam App 2668510",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2668510/header.jpg"
+    },
+    {
+        "id": "2669410",
+        "nome": "Steam App 2669410",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2669410/header.jpg"
+    },
+    {
+        "id": "2670630",
+        "nome": "Steam App 2670630",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2670630/header.jpg"
+    },
+    {
+        "id": "2672610",
+        "nome": "Steam App 2672610",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2672610/header.jpg"
+    },
+    {
+        "id": "267530",
+        "nome": "Steam App 267530",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/267530/header.jpg"
+    },
+    {
+        "id": "267550",
+        "nome": "Steam App 267550",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/267550/header.jpg"
+    },
+    {
+        "id": "2677660",
+        "nome": "Steam App 2677660",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2677660/header.jpg"
+    },
+    {
+        "id": "2679460",
+        "nome": "Steam App 2679460",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2679460/header.jpg"
+    },
+    {
+        "id": "2680010",
+        "nome": "Steam App 2680010",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2680010/header.jpg"
+    },
+    {
+        "id": "2681030",
+        "nome": "Steam App 2681030",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2681030/header.jpg"
+    },
+    {
+        "id": "268500",
+        "nome": "Steam App 268500",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/268500/header.jpg"
+    },
+    {
+        "id": "2686630",
+        "nome": "Steam App 2686630",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2686630/header.jpg"
+    },
+    {
+        "id": "2688570",
+        "nome": "Steam App 2688570",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2688570/header.jpg"
+    },
+    {
+        "id": "268910",
+        "nome": "Steam App 268910",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/268910/header.jpg"
+    },
+    {
+        "id": "2689120",
+        "nome": "Steam App 2689120",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2689120/header.jpg"
+    },
+    {
+        "id": "269790",
+        "nome": "Steam App 269790",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/269790/header.jpg"
+    },
+    {
+        "id": "2698870",
+        "nome": "Steam App 2698870",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2698870/header.jpg"
+    },
+    {
+        "id": "2701350",
+        "nome": "Steam App 2701350",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2701350/header.jpg"
+    },
+    {
+        "id": "2703850",
+        "nome": "Steam App 2703850",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2703850/header.jpg"
+    },
+    {
+        "id": "2706170",
+        "nome": "Steam App 2706170",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2706170/header.jpg"
+    },
+    {
+        "id": "270880",
+        "nome": "Steam App 270880",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/270880/header.jpg"
+    },
+    {
+        "id": "2709120",
+        "nome": "Steam App 2709120",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2709120/header.jpg"
+    },
+    {
+        "id": "271590",
+        "nome": "Steam App 271590",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/271590/header.jpg"
+    },
+    {
+        "id": "2723430",
+        "nome": "Steam App 2723430",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2723430/header.jpg"
+    },
+    {
+        "id": "272510",
+        "nome": "Steam App 272510",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/272510/header.jpg"
+    },
+    {
+        "id": "2728250",
+        "nome": "Steam App 2728250",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2728250/header.jpg"
+    },
+    {
+        "id": "2738380",
+        "nome": "Steam App 2738380",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2738380/header.jpg"
+    },
+    {
+        "id": "274520",
+        "nome": "Steam App 274520",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/274520/header.jpg"
+    },
+    {
+        "id": "2753970",
+        "nome": "Steam App 2753970",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2753970/header.jpg"
+    },
+    {
+        "id": "275850",
+        "nome": "Steam App 275850",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/275850/header.jpg"
+    },
+    {
+        "id": "2768430",
+        "nome": "Steam App 2768430",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2768430/header.jpg"
+    },
+    {
+        "id": "2769080",
+        "nome": "Steam App 2769080",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2769080/header.jpg"
+    },
+    {
+        "id": "277430",
+        "nome": "Steam App 277430",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/277430/header.jpg"
+    },
+    {
+        "id": "2782530",
+        "nome": "Steam App 2782530",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2782530/header.jpg"
+    },
+    {
+        "id": "2784470",
+        "nome": "Steam App 2784470",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2784470/header.jpg"
+    },
+    {
+        "id": "278570",
+        "nome": "Steam App 278570",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/278570/header.jpg"
+    },
+    {
+        "id": "2791030",
+        "nome": "Steam App 2791030",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2791030/header.jpg"
+    },
+    {
+        "id": "2799860",
+        "nome": "INAZUMA ELEVEN: Victory Road",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2799860/header.jpg"
+    },
+    {
+        "id": "28000",
+        "nome": "Kane & Lynch 2: Dog Days",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/28000/header.jpg"
+    },
+    {
+        "id": "280160",
+        "nome": "Aragami",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/280160/header.jpg"
+    },
+    {
+        "id": "282050",
+        "nome": "MX vs. ATV Supercross Encore",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/282050/header.jpg"
+    },
+    {
+        "id": "282140",
+        "nome": "SOMA",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/282140/header.jpg"
+    },
+    {
+        "id": "2821610",
+        "nome": "Echoes of the End: Enhanced Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2821610/header.jpg"
+    },
+    {
+        "id": "2827200",
+        "nome": "MIMESIS",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2827200/header.jpg"
+    },
+    {
+        "id": "2835570",
+        "nome": "Buckshot Roulette",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2835570/header.jpg"
+    },
+    {
+        "id": "283960",
+        "nome": "Pajama Sam: No Need to Hide When It's Dark Outside",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/283960/header.jpg"
+    },
+    {
+        "id": "284160",
+        "nome": "BeamNG.drive",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/284160/header.jpg"
+    },
+    {
+        "id": "284240",
+        "nome": "Maize",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/284240/header.jpg"
+    },
+    {
+        "id": "2849080",
+        "nome": "Kingdom Rush 5: Alliance TD",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2849080/header.jpg"
+    },
+    {
+        "id": "285160",
+        "nome": "LEGO® The Hobbit™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/285160/header.jpg"
+    },
+    {
+        "id": "2854370",
+        "nome": "Floppa: The Dark Forest",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2854370/header.jpg"
+    },
+    {
+        "id": "2857880",
+        "nome": "Yakuza Rogue: Yokohama massage parlor chapter",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2857880/header.jpg"
+    },
+    {
+        "id": "285900",
+        "nome": "Gang Beasts",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/285900/header.jpg"
+    },
+    {
+        "id": "2863160",
+        "nome": "Projekt: Passion - Season 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2863160/header.jpg"
+    },
+    {
+        "id": "287700",
+        "nome": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/287700/header.jpg"
+    },
+    {
+        "id": "288160",
+        "nome": "The Room",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/288160/header.jpg"
+    },
+    {
+        "id": "2890830",
+        "nome": "Streamer Life Simulator 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2890830/header.jpg"
+    },
+    {
+        "id": "2891120",
+        "nome": "Mad Smartphone Tycoon",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2891120/header.jpg"
+    },
+    {
+        "id": "289650",
+        "nome": "Assassin's Creed® Unity",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/289650/header.jpg"
+    },
+    {
+        "id": "2903950",
+        "nome": "Master Detective Archives: RAIN CODE Plus",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2903950/header.jpg"
+    },
+    {
+        "id": "2909400",
+        "nome": "FINAL FANTASY VII REBIRTH",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2909400/header.jpg"
+    },
+    {
+        "id": "2916430",
+        "nome": "Fast Food Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2916430/header.jpg"
+    },
+    {
+        "id": "292000",
+        "nome": "No More Room in Hell 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/292000/header.jpg"
+    },
+    {
+        "id": "292030",
+        "nome": "The Witcher 3: Wild Hunt",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/292030/header.jpg"
+    },
+    {
+        "id": "293760",
+        "nome": "Automation - The Car Company Tycoon Game",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/293760/header.jpg"
+    },
+    {
+        "id": "294100",
+        "nome": "RimWorld",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/294100/header.jpg"
+    },
+    {
+        "id": "2947440",
+        "nome": "SILENT HILL f",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2947440/header.jpg"
+    },
+    {
+        "id": "2950340",
+        "nome": "LEGO® Harry Potter™ Collection",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2950340/header.jpg"
+    },
+    {
+        "id": "2961530",
+        "nome": "Fears to Fathom - Woodbury Getaway",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2961530/header.jpg"
+    },
+    {
+        "id": "296770",
+        "nome": "Real Boxing™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/296770/header.jpg"
+    },
+    {
+        "id": "2967990",
+        "nome": "Train Sim World® 5",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2967990/header.jpg"
+    },
+    {
+        "id": "2969160",
+        "nome": "除邪(CHUXIE)",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2969160/header.jpg"
+    },
+    {
+        "id": "298110",
+        "nome": "Far Cry® 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/298110/header.jpg"
+    },
+    {
+        "id": "2986370",
+        "nome": "Food Delivery Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2986370/header.jpg"
+    },
+    {
+        "id": "2993780",
+        "nome": "FANTASY LIFE i: The Girl Who Steals Time",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2993780/header.jpg"
+    },
+    {
+        "id": "300820",
+        "nome": "Disney•Pixar Toy Story 3: The Video Game",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/300820/header.jpg"
+    },
+    {
+        "id": "3008670",
+        "nome": "Poppy Playtime - Chapter 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3008670/header.jpg"
+    },
+    {
+        "id": "3008740",
+        "nome": "Winter Burrow",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3008740/header.jpg"
+    },
+    {
+        "id": "3014320",
+        "nome": "OCTOPATH TRAVELER 0",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3014320/header.jpg"
+    },
+    {
+        "id": "3015860",
+        "nome": "BACKROOMS THE COMPANY",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3015860/header.jpg"
+    },
+    {
+        "id": "3016840",
+        "nome": "I Am Cat",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3016840/header.jpg"
+    },
+    {
+        "id": "301910",
+        "nome": "Saints Row: Gat out of Hell",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/301910/header.jpg"
+    },
+    {
+        "id": "3024040",
+        "nome": "Stronghold Crusader: Definitive Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3024040/header.jpg"
+    },
+    {
+        "id": "3025800",
+        "nome": "Demon Slayer",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3025800/header.jpg"
+    },
+    {
+        "id": "3035570",
+        "nome": "Assassin's Creed Mirage",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3035570/header.jpg"
+    },
+    {
+        "id": "304240",
+        "nome": "Resident Evil",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/304240/header.jpg"
+    },
+    {
+        "id": "304430",
+        "nome": "INSIDE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/304430/header.jpg"
+    },
+    {
+        "id": "3050220",
+        "nome": "THE KING OF FIGHTERS XIII GLOBAL MATCH",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3050220/header.jpg"
+    },
+    {
+        "id": "3058630",
+        "nome": "Assetto Corsa EVO",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3058630/header.jpg"
+    },
+    {
+        "id": "306020",
+        "nome": "Bloons TD 5",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/306020/header.jpg"
+    },
+    {
+        "id": "3061810",
+        "nome": "Like a Dragon: Pirate Yakuza in Hawaii",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3061810/header.jpg"
+    },
+    {
+        "id": "3064230",
+        "nome": "Castelo da Vania",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3064230/header.jpg"
+    },
+    {
+        "id": "3070520",
+        "nome": "Granny: Escape Together",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3070520/header.jpg"
+    },
+    {
+        "id": "3070880",
+        "nome": "Farming & Supermarket Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3070880/header.jpg"
+    },
+    {
+        "id": "307780",
+        "nome": "Mortal Kombat X",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/307780/header.jpg"
+    },
+    {
+        "id": "3094170",
+        "nome": "Pixel Dungeon VR Demo",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3094170/header.jpg"
+    },
+    {
+        "id": "3097560",
+        "nome": "Liar's Bar",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3097560/header.jpg"
+    },
+    {
+        "id": "310560",
+        "nome": "DiRT Rally",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/310560/header.jpg"
+    },
+    {
+        "id": "310950",
+        "nome": "Street Fighter V",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/310950/header.jpg"
+    },
+    {
+        "id": "3111310",
+        "nome": "Steam App 3111310",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3111310/header.jpg"
+    },
+    {
+        "id": "311210",
+        "nome": "Call of Duty®: Black Ops III",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/311210/header.jpg"
+    },
+    {
+        "id": "3112260",
+        "nome": " Virtua Fighter 5 R.E.V.O. World Stage",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3112260/header.jpg"
+    },
+    {
+        "id": "3114900",
+        "nome": "Dread Flats",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3114900/header.jpg"
+    },
+    {
+        "id": "3115220",
+        "nome": "Town to City",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3115220/header.jpg"
+    },
+    {
+        "id": "311770",
+        "nome": "LEGO® Pirates of the Caribbean: The Video Game",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/311770/header.jpg"
+    },
+    {
+        "id": "3121110",
+        "nome": "Zort",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3121110/header.jpg"
+    },
+    {
+        "id": "312520",
+        "nome": "Rain World",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/312520/header.jpg"
+    },
+    {
+        "id": "3125250",
+        "nome": "STORROR Parkour Pro",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3125250/header.jpg"
+    },
+    {
+        "id": "313160",
+        "nome": "Farming Simulator 15",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/313160/header.jpg"
+    },
+    {
+        "id": "313690",
+        "nome": "LEGO® Batman™ 3: Beyond Gotham",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/313690/header.jpg"
+    },
+    {
+        "id": "313780",
+        "nome": "Conarium",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/313780/header.jpg"
+    },
+    {
+        "id": "315210",
+        "nome": "Esquadrão Suicida: Mate a Liga da Justiça",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/315210/header.jpg"
+    },
+    {
+        "id": "3164500",
+        "nome": "Schedule I",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3164500/header.jpg"
+    },
+    {
+        "id": "3167020",
+        "nome": "Escape from Duckov 逃离鸭科夫",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3167020/header.jpg"
+    },
+    {
+        "id": "317580",
+        "nome": "Disney•Pixar Toy Story Mania!",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/317580/header.jpg"
+    },
+    {
+        "id": "3180070",
+        "nome": "No, I'm not a Human",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3180070/header.jpg"
+    },
+    {
+        "id": "3193770",
+        "nome": "The Exit 8 VR",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3193770/header.jpg"
+    },
+    {
+        "id": "319510",
+        "nome": "Five Nights at Freddy's",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/319510/header.jpg"
+    },
+    {
+        "id": "319630",
+        "nome": "Life is Strange - Episode 1",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/319630/header.jpg"
+    },
+    {
+        "id": "320300",
+        "nome": "Car Mechanic Simulator 2015",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/320300/header.jpg"
+    },
+    {
+        "id": "3205080",
+        "nome": "Bad Parenting 1: Mr. Red Face",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3205080/header.jpg"
+    },
+    {
+        "id": "321040",
+        "nome": "Steam App 321040",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/321040/header.jpg"
+    },
+    {
+        "id": "322170",
+        "nome": "Geometry Dash",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/322170/header.jpg"
+    },
+    {
+        "id": "322330",
+        "nome": "Don't Starve Together",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/322330/header.jpg"
+    },
+    {
+        "id": "322500",
+        "nome": "SUPERHOT",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/322500/header.jpg"
+    },
+    {
+        "id": "3228590",
+        "nome": "Deadzone: Rogue",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3228590/header.jpg"
+    },
+    {
+        "id": "323190",
+        "nome": "Frostpunk",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/323190/header.jpg"
+    },
+    {
+        "id": "32330",
+        "nome": "LEGO® Indiana Jones™: The Original Adventures",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/32330/header.jpg"
+    },
+    {
+        "id": "323470",
+        "nome": "DRAGON BALL XENOVERSE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/323470/header.jpg"
+    },
+    {
+        "id": "3241660",
+        "nome": "R.E.P.O.",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3241660/header.jpg"
+    },
+    {
+        "id": "3242750",
+        "nome": "Level Devil",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3242750/header.jpg"
+    },
+    {
+        "id": "32440",
+        "nome": "LEGO® Star Wars™ - The Complete Saga",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/32440/header.jpg"
+    },
+    {
+        "id": "32450",
+        "nome": "LEGO® Indiana Jones™ 2: The Adventure Continues",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/32450/header.jpg"
+    },
+    {
+        "id": "3247750",
+        "nome": "Mycopunk",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3247750/header.jpg"
+    },
+    {
+        "id": "324800",
+        "nome": "Shadow Warrior 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/324800/header.jpg"
+    },
+    {
+        "id": "32510",
+        "nome": "LEGO® Star Wars™ III - The Clone Wars™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/32510/header.jpg"
+    },
+    {
+        "id": "3255850",
+        "nome": "Rusty Rabbit Demo",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3255850/header.jpg"
+    },
+    {
+        "id": "3261030",
+        "nome": "Teen Zombie In Your Cabin",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3261030/header.jpg"
+    },
+    {
+        "id": "3287520",
+        "nome": "NINJA GAIDEN 2 Black",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3287520/header.jpg"
+    },
+    {
+        "id": "329050",
+        "nome": "Devil May Cry 4 Special Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/329050/header.jpg"
+    },
+    {
+        "id": "3292260",
+        "nome": "Amenti",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3292260/header.jpg"
+    },
+    {
+        "id": "3294190",
+        "nome": "Code Trainer Demo",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3294190/header.jpg"
+    },
+    {
+        "id": "329430",
+        "nome": "State of Decay: YOSE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/329430/header.jpg"
+    },
+    {
+        "id": "3295810",
+        "nome": "Remote Reaper: FPV Combat Drone Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3295810/header.jpg"
+    },
+    {
+        "id": "330830",
+        "nome": "Tales from the Borderlands",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/330830/header.jpg"
+    },
+    {
+        "id": "330840",
+        "nome": "Game of Thrones - A Telltale Games Series",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/330840/header.jpg"
+    },
+    {
+        "id": "3311740",
+        "nome": "The Cabin Factory",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3311740/header.jpg"
+    },
+    {
+        "id": "3314790",
+        "nome": "CloverPit",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3314790/header.jpg"
+    },
+    {
+        "id": "331600",
+        "nome": "One Piece Pirate Warriors 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/331600/header.jpg"
+    },
+    {
+        "id": "332310",
+        "nome": "LEGO® Worlds",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/332310/header.jpg"
+    },
+    {
+        "id": "33280",
+        "nome": "James Cameron’s Avatar™: The Game",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/33280/header.jpg"
+    },
+    {
+        "id": "332800",
+        "nome": "Five Nights at Freddy's 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/332800/header.jpg"
+    },
+    {
+        "id": "33440",
+        "nome": "Steam App 33440",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/33440/header.jpg"
+    },
+    {
+        "id": "335300",
+        "nome": "DARK SOULS™ II: Scholar of the First Sin",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/335300/header.jpg"
+    },
+    {
+        "id": "3356970",
+        "nome": "Nightfall Secrets",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3356970/header.jpg"
+    },
+    {
+        "id": "3357650",
+        "nome": "PRAGMATA",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3357650/header.jpg"
+    },
+    {
+        "id": "3364770",
+        "nome": "迷雾审判",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3364770/header.jpg"
+    },
+    {
+        "id": "3372710",
+        "nome": "Noble Legacy",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3372710/header.jpg"
+    },
+    {
+        "id": "3378960",
+        "nome": "Lost Soul Aside™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3378960/header.jpg"
+    },
+    {
+        "id": "3382300",
+        "nome": "甜心帝国",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3382300/header.jpg"
+    },
+    {
+        "id": "339340",
+        "nome": "Resident Evil 0",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/339340/header.jpg"
+    },
+    {
+        "id": "3399040",
+        "nome": "Office Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3399040/header.jpg"
+    },
+    {
+        "id": "340150",
+        "nome": "Basement",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/340150/header.jpg"
+    },
+    {
+        "id": "3405340",
+        "nome": "Megabonk",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3405340/header.jpg"
+    },
+    {
+        "id": "34270",
+        "nome": "SEGA Mega Drive and Genesis Classics",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/34270/header.jpg"
+    },
+    {
+        "id": "3450310",
+        "nome": "Europa Universalis V",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3450310/header.jpg"
+    },
+    {
+        "id": "345660",
+        "nome": "RIDE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/345660/header.jpg"
+    },
+    {
+        "id": "345890",
+        "nome": "NASCAR '15 Victory Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/345890/header.jpg"
+    },
+    {
+        "id": "346110",
+        "nome": "ARK: Survival Evolved",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/346110/header.jpg"
+    },
+    {
+        "id": "3480930",
+        "nome": "Midnight Taco",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3480930/header.jpg"
+    },
+    {
+        "id": "34830",
+        "nome": "Sniper: Ghost Warrior",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/34830/header.jpg"
+    },
+    {
+        "id": "3484300",
+        "nome": "DREADZONE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3484300/header.jpg"
+    },
+    {
+        "id": "3487060",
+        "nome": "Youtubers Life 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3487060/header.jpg"
+    },
+    {
+        "id": "349040",
+        "nome": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/349040/header.jpg"
+    },
+    {
+        "id": "349220",
+        "nome": "The Black Watchmen",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/349220/header.jpg"
+    },
+    {
+        "id": "3494520",
+        "nome": "Lost Rift",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3494520/header.jpg"
+    },
+    {
+        "id": "350080",
+        "nome": "Wolfenstein: The Old Blood",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/350080/header.jpg"
+    },
+    {
+        "id": "3504780",
+        "nome": "Wildgate",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3504780/header.jpg"
+    },
+    {
+        "id": "350640",
+        "nome": "Sherlock Holmes: The Devil's Daughter",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/350640/header.jpg"
+    },
+    {
+        "id": "35140",
+        "nome": "Batman: Arkham Asylum Game of the Year Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/35140/header.jpg"
+    },
+    {
+        "id": "352400",
+        "nome": "LEGO® Jurassic World",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/352400/header.jpg"
+    },
+    {
+        "id": "3527290",
+        "nome": "PEAK",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3527290/header.jpg"
+    },
+    {
+        "id": "3531260",
+        "nome": "Superhero Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3531260/header.jpg"
+    },
+    {
+        "id": "354140",
+        "nome": "Five Nights at Freddy's 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/354140/header.jpg"
+    },
+    {
+        "id": "354160",
+        "nome": "WRC 5 FIA World Rally Championship",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/354160/header.jpg"
+    },
+    {
+        "id": "3548580",
+        "nome": "Chill with You : Lo-Fi Story",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3548580/header.jpg"
+    },
+    {
+        "id": "3549430",
+        "nome": "Veins of DARKNESS",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3549430/header.jpg"
+    },
+    {
+        "id": "355130",
+        "nome": "MotoGP™15",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/355130/header.jpg"
+    },
+    {
+        "id": "357190",
+        "nome": "ULTIMATE MARVEL VS. CAPCOM 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/357190/header.jpg"
+    },
+    {
+        "id": "3575300",
+        "nome": "Climb The Backrooms",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3575300/header.jpg"
+    },
+    {
+        "id": "358400",
+        "nome": "Shadow Warrior (Classic)",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/358400/header.jpg"
+    },
+    {
+        "id": "3590",
+        "nome": "Plants vs. Zombies GOTY Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3590/header.jpg"
+    },
+    {
+        "id": "359870",
+        "nome": "FINAL FANTASY X/X-2 HD Remaster",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/359870/header.jpg"
+    },
+    {
+        "id": "3603110",
+        "nome": "Favela Kick: The Final Goal",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3603110/header.jpg"
+    },
+    {
+        "id": "361420",
+        "nome": "ASTRONEER",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/361420/header.jpg"
+    },
+    {
+        "id": "3657450",
+        "nome": "Gorilla Vs 100 Men",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3657450/header.jpg"
+    },
+    {
+        "id": "367500",
+        "nome": "Dragon's Dogma: Dark Arisen",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/367500/header.jpg"
+    },
+    {
+        "id": "367520",
+        "nome": "Hollow Knight",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/367520/header.jpg"
+    },
+    {
+        "id": "368070",
+        "nome": "Sniper Ghost Warrior 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/368070/header.jpg"
+    },
+    {
+        "id": "368500",
+        "nome": "Assassin's Creed® Syndicate",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/368500/header.jpg"
+    },
+    {
+        "id": "3687910",
+        "nome": "In The Dark",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3687910/header.jpg"
+    },
+    {
+        "id": "371660",
+        "nome": "Far Cry® Primal",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/371660/header.jpg"
+    },
+    {
+        "id": "3716600",
+        "nome": "Mage Arena",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3716600/header.jpg"
+    },
+    {
+        "id": "3730100",
+        "nome": "Whispers from the Star",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3730100/header.jpg"
+    },
+    {
+        "id": "374320",
+        "nome": "DARK SOULS™ III",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/374320/header.jpg"
+    },
+    {
+        "id": "3764200",
+        "nome": "Resident Evil Requiem",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3764200/header.jpg"
+    },
+    {
+        "id": "376870",
+        "nome": "Minecraft: Story Mode - A Telltale Games Series",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/376870/header.jpg"
+    },
+    {
+        "id": "3768760",
+        "nome": "007 First Light",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3768760/header.jpg"
+    },
+    {
+        "id": "377160",
+        "nome": "Fallout 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/377160/header.jpg"
+    },
+    {
+        "id": "378540",
+        "nome": "The Surge",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/378540/header.jpg"
+    },
+    {
+        "id": "378860",
+        "nome": "Project CARS 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/378860/header.jpg"
+    },
+    {
+        "id": "379430",
+        "nome": "Kingdom Come: Deliverance",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/379430/header.jpg"
+    },
+    {
+        "id": "379720",
+        "nome": "DOOM",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/379720/header.jpg"
+    },
+    {
+        "id": "381210",
+        "nome": "Dead by Daylight",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/381210/header.jpg"
+    },
+    {
+        "id": "3830",
+        "nome": "Psychonauts",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3830/header.jpg"
+    },
+    {
+        "id": "383460",
+        "nome": "Sound of Drop - fall into poison -",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/383460/header.jpg"
+    },
+    {
+        "id": "386940",
+        "nome": "Ultimate Chicken Horse",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/386940/header.jpg"
+    },
+    {
+        "id": "387290",
+        "nome": "Ori and the Blind Forest: Definitive Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/387290/header.jpg"
+    },
+    {
+        "id": "388090",
+        "nome": "Five Nights at Freddy's 4",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/388090/header.jpg"
+    },
+    {
+        "id": "389140",
+        "nome": "Horizon Chase Turbo",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/389140/header.jpg"
+    },
+    {
+        "id": "389730",
+        "nome": "TEKKEN 7",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/389730/header.jpg"
+    },
+    {
+        "id": "391220",
+        "nome": "Rise of the Tomb Raider™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/391220/header.jpg"
+    },
+    {
+        "id": "39140",
+        "nome": "FINAL FANTASY VII",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/39140/header.jpg"
+    },
+    {
+        "id": "391540",
+        "nome": "Undertale",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/391540/header.jpg"
+    },
+    {
+        "id": "3917090",
+        "nome": "Assetto Corsa Rally",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3917090/header.jpg"
+    },
+    {
+        "id": "3932890",
+        "nome": "Escape from Tarkov",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3932890/header.jpg"
+    },
+    {
+        "id": "394310",
+        "nome": "Punch Club",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/394310/header.jpg"
+    },
+    {
+        "id": "3949040",
+        "nome": "RV There Yet?",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3949040/header.jpg"
+    },
+    {
+        "id": "397540",
+        "nome": "Borderlands 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/397540/header.jpg"
+    },
+    {
+        "id": "397740",
+        "nome": "Hylics",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/397740/header.jpg"
+    },
+    {
+        "id": "40",
+        "nome": "Deathmatch Classic",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/40/header.jpg"
+    },
+    {
+        "id": "400",
+        "nome": "Portal",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/400/header.jpg"
+    },
+    {
+        "id": "4000",
+        "nome": "Garry's Mod",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/4000/header.jpg"
+    },
+    {
+        "id": "400800",
+        "nome": "MXGP2 - The Official Motocross Videogame",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/400800/header.jpg"
+    },
+    {
+        "id": "403640",
+        "nome": "Dishonored 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/403640/header.jpg"
+    },
+    {
+        "id": "405310",
+        "nome": "LEGO® MARVEL's Avengers",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/405310/header.jpg"
+    },
+    {
+        "id": "409720",
+        "nome": "BioShock™ 2 Remastered",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/409720/header.jpg"
+    },
+    {
+        "id": "40990",
+        "nome": "Mafia",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/40990/header.jpg"
+    },
+    {
+        "id": "412020",
+        "nome": "Metro Exodus",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/412020/header.jpg"
+    },
+    {
+        "id": "413150",
+        "nome": "Stardew Valley",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/413150/header.jpg"
+    },
+    {
+        "id": "414340",
+        "nome": "Steam App 414340",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/414340/header.jpg"
+    },
+    {
+        "id": "414700",
+        "nome": "Steam App 414700",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/414700/header.jpg"
+    },
+    {
+        "id": "41700",
+        "nome": "Steam App 41700",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/41700/header.jpg"
+    },
+    {
+        "id": "417430",
+        "nome": "Steam App 417430",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/417430/header.jpg"
+    },
+    {
+        "id": "418370",
+        "nome": "Steam App 418370",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/418370/header.jpg"
+    },
+    {
+        "id": "418950",
+        "nome": "Steam App 418950",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/418950/header.jpg"
+    },
+    {
+        "id": "421020",
+        "nome": "Steam App 421020",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/421020/header.jpg"
+    },
+    {
+        "id": "4244510",
+        "nome": "Steam App 4244510",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/4244510/header.jpg"
+    },
+    {
+        "id": "424840",
+        "nome": "Steam App 424840",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/424840/header.jpg"
+    },
+    {
+        "id": "424850",
+        "nome": "Steam App 424850",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/424850/header.jpg"
+    },
+    {
+        "id": "425580",
+        "nome": "Steam App 425580",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/425580/header.jpg"
+    },
+    {
+        "id": "42640",
+        "nome": "Steam App 42640",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/42640/header.jpg"
+    },
+    {
+        "id": "42700",
+        "nome": "Steam App 42700",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/42700/header.jpg"
+    },
+    {
+        "id": "427290",
+        "nome": "Steam App 427290",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/427290/header.jpg"
+    },
+    {
+        "id": "42730",
+        "nome": "Steam App 42730",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/42730/header.jpg"
+    },
+    {
+        "id": "427520",
+        "nome": "Steam App 427520",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/427520/header.jpg"
+    },
+    {
+        "id": "428830",
+        "nome": "Steam App 428830",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/428830/header.jpg"
+    },
+    {
+        "id": "432940",
+        "nome": "Steam App 432940",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/432940/header.jpg"
+    },
+    {
+        "id": "434650",
+        "nome": "Steam App 434650",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/434650/header.jpg"
+    },
+    {
+        "id": "438640",
+        "nome": "Steam App 438640",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/438640/header.jpg"
+    },
+    {
+        "id": "440900",
+        "nome": "Steam App 440900",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/440900/header.jpg"
+    },
+    {
+        "id": "44350",
+        "nome": "Steam App 44350",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/44350/header.jpg"
+    },
+    {
+        "id": "44360",
+        "nome": "Steam App 44360",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/44360/header.jpg"
+    },
+    {
+        "id": "446040",
+        "nome": "Steam App 446040",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/446040/header.jpg"
+    },
+    {
+        "id": "447040",
+        "nome": "Steam App 447040",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/447040/header.jpg"
+    },
+    {
+        "id": "447190",
+        "nome": "Steam App 447190",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/447190/header.jpg"
+    },
+    {
+        "id": "448280",
+        "nome": "Steam App 448280",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/448280/header.jpg"
+    },
+    {
+        "id": "448510",
+        "nome": "Steam App 448510",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/448510/header.jpg"
+    },
+    {
+        "id": "449800",
+        "nome": "Steam App 449800",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/449800/header.jpg"
+    },
+    {
+        "id": "450290",
+        "nome": "Steam App 450290",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/450290/header.jpg"
+    },
+    {
+        "id": "454650",
+        "nome": "Steam App 454650",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/454650/header.jpg"
+    },
+    {
+        "id": "455980",
+        "nome": "Steam App 455980",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/455980/header.jpg"
+    },
+    {
+        "id": "456750",
+        "nome": "Steam App 456750",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/456750/header.jpg"
+    },
+    {
+        "id": "45700",
+        "nome": "Steam App 45700",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/45700/header.jpg"
+    },
+    {
+        "id": "457140",
+        "nome": "Steam App 457140",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/457140/header.jpg"
+    },
+    {
+        "id": "45760",
+        "nome": "Steam App 45760",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/45760/header.jpg"
+    },
+    {
+        "id": "458710",
+        "nome": "Steam App 458710",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/458710/header.jpg"
+    },
+    {
+        "id": "459220",
+        "nome": "Steam App 459220",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/459220/header.jpg"
+    },
+    {
+        "id": "460790",
+        "nome": "Steam App 460790",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/460790/header.jpg"
+    },
+    {
+        "id": "460950",
+        "nome": "Steam App 460950",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/460950/header.jpg"
+    },
+    {
+        "id": "470220",
+        "nome": "Steam App 470220",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/470220/header.jpg"
+    },
+    {
+        "id": "474960",
+        "nome": "Steam App 474960",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/474960/header.jpg"
+    },
+    {
+        "id": "477160",
+        "nome": "Steam App 477160",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/477160/header.jpg"
+    },
+    {
+        "id": "477770",
+        "nome": "Steam App 477770",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/477770/header.jpg"
+    },
+    {
+        "id": "47780",
+        "nome": "Steam App 47780",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/47780/header.jpg"
+    },
+    {
+        "id": "47830",
+        "nome": "Steam App 47830",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/47830/header.jpg"
+    },
+    {
+        "id": "47870",
+        "nome": "Steam App 47870",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/47870/header.jpg"
+    },
+    {
+        "id": "48000",
+        "nome": "Steam App 48000",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/48000/header.jpg"
+    },
+    {
+        "id": "48180",
+        "nome": "Steam App 48180",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/48180/header.jpg"
+    },
+    {
+        "id": "485510",
+        "nome": "Steam App 485510",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/485510/header.jpg"
+    },
+    {
+        "id": "486650",
+        "nome": "Steam App 486650",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/486650/header.jpg"
+    },
+    {
+        "id": "489830",
+        "nome": "Steam App 489830",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/489830/header.jpg"
+    },
+    {
+        "id": "490110",
+        "nome": "Steam App 490110",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/490110/header.jpg"
+    },
+    {
+        "id": "492720",
+        "nome": "Steam App 492720",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/492720/header.jpg"
+    },
+    {
+        "id": "493490",
+        "nome": "Steam App 493490",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/493490/header.jpg"
+    },
+    {
+        "id": "493840",
+        "nome": "Steam App 493840",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/493840/header.jpg"
+    },
+    {
+        "id": "495140",
+        "nome": "Steam App 495140",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/495140/header.jpg"
+    },
+    {
+        "id": "49520",
+        "nome": "Steam App 49520",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/49520/header.jpg"
+    },
+    {
+        "id": "495290",
+        "nome": "Steam App 495290",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/495290/header.jpg"
+    },
+    {
+        "id": "495420",
+        "nome": "Steam App 495420",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/495420/header.jpg"
+    },
+    {
+        "id": "497860",
+        "nome": "Steam App 497860",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/497860/header.jpg"
+    },
+    {
+        "id": "500",
+        "nome": "Steam App 500",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/500/header.jpg"
+    },
+    {
+        "id": "50130",
+        "nome": "Steam App 50130",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/50130/header.jpg"
+    },
+    {
+        "id": "502280",
+        "nome": "Steam App 502280",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/502280/header.jpg"
+    },
+    {
+        "id": "502500",
+        "nome": "Steam App 502500",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/502500/header.jpg"
+    },
+    {
+        "id": "50300",
+        "nome": "Steam App 50300",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/50300/header.jpg"
+    },
+    {
+        "id": "504230",
+        "nome": "Steam App 504230",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/504230/header.jpg"
+    },
+    {
+        "id": "506470",
+        "nome": "Steam App 506470",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/506470/header.jpg"
+    },
+    {
+        "id": "50650",
+        "nome": "Steam App 50650",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/50650/header.jpg"
+    },
+    {
+        "id": "506610",
+        "nome": "Steam App 506610",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/506610/header.jpg"
+    },
+    {
+        "id": "507010",
+        "nome": "Steam App 507010",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/507010/header.jpg"
+    },
+    {
+        "id": "508440",
+        "nome": "Steam App 508440",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/508440/header.jpg"
+    },
+    {
+        "id": "508450",
+        "nome": "Steam App 508450",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/508450/header.jpg"
+    },
+    {
+        "id": "510420",
+        "nome": "Steam App 510420",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/510420/header.jpg"
+    },
+    {
+        "id": "513270",
+        "nome": "Steam App 513270",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/513270/header.jpg"
+    },
+    {
+        "id": "513710",
+        "nome": "Steam App 513710",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/513710/header.jpg"
+    },
+    {
+        "id": "515180",
+        "nome": "Steam App 515180",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/515180/header.jpg"
+    },
+    {
+        "id": "516750",
+        "nome": "Steam App 516750",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/516750/header.jpg"
+    },
+    {
+        "id": "517630",
+        "nome": "Steam App 517630",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/517630/header.jpg"
+    },
+    {
+        "id": "518790",
+        "nome": "Steam App 518790",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/518790/header.jpg"
+    },
+    {
+        "id": "520940",
+        "nome": "Steam App 520940",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/520940/header.jpg"
+    },
+    {
+        "id": "521890",
+        "nome": "Steam App 521890",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/521890/header.jpg"
+    },
+    {
+        "id": "521980",
+        "nome": "Steam App 521980",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/521980/header.jpg"
+    },
+    {
+        "id": "524220",
+        "nome": "Steam App 524220",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/524220/header.jpg"
+    },
+    {
+        "id": "526870",
+        "nome": "Steam App 526870",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/526870/header.jpg"
+    },
+    {
+        "id": "532790",
+        "nome": "Steam App 532790",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/532790/header.jpg"
+    },
+    {
+        "id": "534380",
+        "nome": "Steam App 534380",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/534380/header.jpg"
+    },
+    {
+        "id": "535930",
+        "nome": "Steam App 535930",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/535930/header.jpg"
+    },
+    {
+        "id": "536220",
+        "nome": "Steam App 536220",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/536220/header.jpg"
+    },
+    {
+        "id": "536270",
+        "nome": "Steam App 536270",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/536270/header.jpg"
+    },
+    {
+        "id": "536420",
+        "nome": "Steam App 536420",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/536420/header.jpg"
+    },
+    {
+        "id": "537450",
+        "nome": "Steam App 537450",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/537450/header.jpg"
+    },
+    {
+        "id": "538000",
+        "nome": "Steam App 538000",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/538000/header.jpg"
+    },
+    {
+        "id": "543870",
+        "nome": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/543870/header.jpg"
+    },
+    {
+        "id": "543900",
+        "nome": "Steam App 543900",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/543900/header.jpg"
+    },
+    {
+        "id": "544750",
+        "nome": "Steam App 544750",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/544750/header.jpg"
+    },
+    {
+        "id": "545150",
+        "nome": "Steam App 545150",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/545150/header.jpg"
+    },
+    {
+        "id": "546560",
+        "nome": "Steam App 546560",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/546560/header.jpg"
+    },
+    {
+        "id": "547710",
+        "nome": "Steam App 547710",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/547710/header.jpg"
+    },
+    {
+        "id": "548430",
+        "nome": "Steam App 548430",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/548430/header.jpg"
+    },
+    {
+        "id": "548570",
+        "nome": "Steam App 548570",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/548570/header.jpg"
+    },
+    {
+        "id": "549910",
+        "nome": "Steam App 549910",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/549910/header.jpg"
+    },
+    {
+        "id": "550",
+        "nome": "Steam App 550",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/550/header.jpg"
+    },
+    {
+        "id": "550310",
+        "nome": "Steam App 550310",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/550310/header.jpg"
+    },
+    {
+        "id": "55140",
+        "nome": "Steam App 55140",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/55140/header.jpg"
+    },
+    {
+        "id": "554620",
+        "nome": "Steam App 554620",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/554620/header.jpg"
+    },
+    {
+        "id": "555220",
+        "nome": "Steam App 555220",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/555220/header.jpg"
+    },
+    {
+        "id": "558420",
+        "nome": "Steam App 558420",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/558420/header.jpg"
+    },
+    {
+        "id": "559680",
+        "nome": "Steam App 559680",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/559680/header.jpg"
+    },
+    {
+        "id": "561600",
+        "nome": "Steam App 561600",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/561600/header.jpg"
+    },
+    {
+        "id": "561610",
+        "nome": "MotoGP™17",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/561610/header.jpg"
+    },
+    {
+        "id": "563750",
+        "nome": "World Boxing Manager",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/563750/header.jpg"
+    },
+    {
+        "id": "569430",
+        "nome": "A Demon's Game - Episode 1",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/569430/header.jpg"
+    },
+    {
+        "id": "570",
+        "nome": "Dota 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/570/header.jpg"
+    },
+    {
+        "id": "570940",
+        "nome": "DARK SOULS™: REMASTERED",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/570940/header.jpg"
+    },
+    {
+        "id": "57300",
+        "nome": "Amnesia: The Dark Descent",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/57300/header.jpg"
+    },
+    {
+        "id": "577800",
+        "nome": "NBA 2K18",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/577800/header.jpg"
+    },
+    {
+        "id": "578330",
+        "nome": "LEGO® City Undercover",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/578330/header.jpg"
+    },
+    {
+        "id": "578650",
+        "nome": "The Outer Worlds",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/578650/header.jpg"
+    },
+    {
+        "id": "57900",
+        "nome": "Duke Nukem Forever",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/57900/header.jpg"
+    },
+    {
+        "id": "579950",
+        "nome": "Marvel's Guardians of the Galaxy: The Telltale Series",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/579950/header.jpg"
+    },
+    {
+        "id": "582010",
+        "nome": "Monster Hunter: World",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/582010/header.jpg"
+    },
+    {
+        "id": "582160",
+        "nome": "Assassin's Creed® Origins",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/582160/header.jpg"
+    },
+    {
+        "id": "588650",
+        "nome": "Dead Cells",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/588650/header.jpg"
+    },
+    {
+        "id": "592580",
+        "nome": "PRO EVOLUTION SOCCER 2018",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/592580/header.jpg"
+    },
+    {
+        "id": "594330",
+        "nome": "Visage",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/594330/header.jpg"
+    },
+    {
+        "id": "595520",
+        "nome": "FINAL FANTASY XII THE ZODIAC AGE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/595520/header.jpg"
+    },
+    {
+        "id": "597810",
+        "nome": "Shining Plume 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/597810/header.jpg"
+    },
+    {
+        "id": "601050",
+        "nome": "Attack on Titan 2 - A.O.T.2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/601050/header.jpg"
+    },
+    {
+        "id": "601150",
+        "nome": "Devil May Cry 5",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/601150/header.jpg"
+    },
+    {
+        "id": "606160",
+        "nome": "ROUTINE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/606160/header.jpg"
+    },
+    {
+        "id": "607080",
+        "nome": "Psychonauts 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/607080/header.jpg"
+    },
+    {
+        "id": "611620",
+        "nome": "TheNightfall",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/611620/header.jpg"
+    },
+    {
+        "id": "611790",
+        "nome": "House Party",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/611790/header.jpg"
+    },
+    {
+        "id": "612880",
+        "nome": "Wolfenstein II: The New Colossus",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/612880/header.jpg"
+    },
+    {
+        "id": "613100",
+        "nome": "House Flipper",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/613100/header.jpg"
+    },
+    {
+        "id": "613830",
+        "nome": "CHRONO TRIGGER®",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/613830/header.jpg"
+    },
+    {
+        "id": "614570",
+        "nome": "Dishonored®: Death of the Outsider™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/614570/header.jpg"
+    },
+    {
+        "id": "617160",
+        "nome": "Home Sweet Home",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/617160/header.jpg"
+    },
+    {
+        "id": "617290",
+        "nome": "Remnant: From the Ashes",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/617290/header.jpg"
+    },
+    {
+        "id": "620",
+        "nome": "Portal 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/620/header.jpg"
+    },
+    {
+        "id": "621060",
+        "nome": "PC Building Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/621060/header.jpg"
+    },
+    {
+        "id": "626690",
+        "nome": "Sword Art Online: Fatal Bullet",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/626690/header.jpg"
+    },
+    {
+        "id": "627270",
+        "nome": "Injustice™ 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/627270/header.jpg"
+    },
+    {
+        "id": "629520",
+        "nome": "Soundpad",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/629520/header.jpg"
+    },
+    {
+        "id": "629760",
+        "nome": "MORDHAU",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/629760/header.jpg"
+    },
+    {
+        "id": "631510",
+        "nome": "Devil May Cry HD Collection",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/631510/header.jpg"
+    },
+    {
+        "id": "632360",
+        "nome": "Risk of Rain 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/632360/header.jpg"
+    },
+    {
+        "id": "633230",
+        "nome": "Steam App 633230",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/633230/header.jpg"
+    },
+    {
+        "id": "63380",
+        "nome": "Sniper Elite V2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/63380/header.jpg"
+    },
+    {
+        "id": "635260",
+        "nome": "CarX Drift Racing Online",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/635260/header.jpg"
+    },
+    {
+        "id": "638970",
+        "nome": "Yakuza 0",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/638970/header.jpg"
+    },
+    {
+        "id": "639170",
+        "nome": "Minecraft: Story Mode - Season Two",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/639170/header.jpg"
+    },
+    {
+        "id": "640590",
+        "nome": "The LEGO® NINJAGO® Movie Video Game",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/640590/header.jpg"
+    },
+    {
+        "id": "645630",
+        "nome": "Car Mechanic Simulator 2018",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/645630/header.jpg"
+    },
+    {
+        "id": "646910",
+        "nome": "The Crew™ 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/646910/header.jpg"
+    },
+    {
+        "id": "647830",
+        "nome": "LEGO® Marvel Super Heroes 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/647830/header.jpg"
+    },
+    {
+        "id": "648800",
+        "nome": "Raft",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/648800/header.jpg"
+    },
+    {
+        "id": "6550",
+        "nome": "Devil May Cry® 3 Special Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/6550/header.jpg"
+    },
+    {
+        "id": "655500",
+        "nome": "MX Bikes",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/655500/header.jpg"
+    },
+    {
+        "id": "658560",
+        "nome": "Zup! 7",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/658560/header.jpg"
+    },
+    {
+        "id": "670900",
+        "nome": "NASCAR Heat 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/670900/header.jpg"
+    },
+    {
+        "id": "67370",
+        "nome": "The Darkness II",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/67370/header.jpg"
+    },
+    {
+        "id": "675260",
+        "nome": "Batman: The Enemy Within - The Telltale Series",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/675260/header.jpg"
+    },
+    {
+        "id": "678960",
+        "nome": "CODE VEIN",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/678960/header.jpg"
+    },
+    {
+        "id": "681280",
+        "nome": "Descenders",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/681280/header.jpg"
+    },
+    {
+        "id": "6850",
+        "nome": "Hitman 2: Silent Assassin",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/6850/header.jpg"
+    },
+    {
+        "id": "6860",
+        "nome": "Hitman: Blood Money",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/6860/header.jpg"
+    },
+    {
+        "id": "690790",
+        "nome": "DiRT Rally 2.0",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/690790/header.jpg"
+    },
+    {
+        "id": "697370",
+        "nome": "Linx Battle Arena",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/697370/header.jpg"
+    },
+    {
+        "id": "698780",
+        "nome": "Doki Doki Literature Club!",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/698780/header.jpg"
+    },
+    {
+        "id": "699130",
+        "nome": "World War Z",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/699130/header.jpg"
+    },
+    {
+        "id": "70",
+        "nome": "Half-Life",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/70/header.jpg"
+    },
+    {
+        "id": "702120",
+        "nome": "THE KING OF FIGHTERS '97 GLOBAL MATCH",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/702120/header.jpg"
+    },
+    {
+        "id": "702890",
+        "nome": "BlazBlue: Cross Tag Battle",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/702890/header.jpg"
+    },
+    {
+        "id": "703860",
+        "nome": "GRID",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/703860/header.jpg"
+    },
+    {
+        "id": "704850",
+        "nome": "Thief Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/704850/header.jpg"
+    },
+    {
+        "id": "70600",
+        "nome": "Worms Ultimate Mayhem",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/70600/header.jpg"
+    },
+    {
+        "id": "70620",
+        "nome": "Worms Crazy Golf",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/70620/header.jpg"
+    },
+    {
+        "id": "70650",
+        "nome": "Worms Blast",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/70650/header.jpg"
+    },
+    {
+        "id": "711750",
+        "nome": "Monster Energy Supercross - The Official Videogame",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/711750/header.jpg"
+    },
+    {
+        "id": "71250",
+        "nome": "Sonic Adventure DX",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/71250/header.jpg"
+    },
+    {
+        "id": "715270",
+        "nome": "Fire and Fury: English Civil War",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/715270/header.jpg"
+    },
+    {
+        "id": "716710",
+        "nome": "東方憑依華　～ Antinomy of Common Flowers.",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/716710/header.jpg"
+    },
+    {
+        "id": "7200",
+        "nome": "Trackmania United Forever",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/7200/header.jpg"
+    },
+    {
+        "id": "72850",
+        "nome": "The Elder Scrolls V: Skyrim",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/72850/header.jpg"
+    },
+    {
+        "id": "728740",
+        "nome": "Sniper Elite V2 Remastered",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/728740/header.jpg"
+    },
+    {
+        "id": "728880",
+        "nome": "Overcooked! 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/728880/header.jpg"
+    },
+    {
+        "id": "729040",
+        "nome": "Borderlands Game of the Year Enhanced",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/729040/header.jpg"
+    },
+    {
+        "id": "730",
+        "nome": "Counter-Strike 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/730/header.jpg"
+    },
+    {
+        "id": "731490",
+        "nome": "Crash Bandicoot™ N. Sane Trilogy",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/731490/header.jpg"
+    },
+    {
+        "id": "739630",
+        "nome": "Phasmophobia",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/739630/header.jpg"
+    },
+    {
+        "id": "740130",
+        "nome": "Tales of ARISE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/740130/header.jpg"
+    },
+    {
+        "id": "742300",
+        "nome": "Mega Man 11",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/742300/header.jpg"
+    },
+    {
+        "id": "746240",
+        "nome": "Flip the Table",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/746240/header.jpg"
+    },
+    {
+        "id": "747350",
+        "nome": "Hellblade: Senua's Sacrifice VR Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/747350/header.jpg"
+    },
+    {
+        "id": "747660",
+        "nome": "Five Nights at Freddy's: Security Breach",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/747660/header.jpg"
+    },
+    {
+        "id": "750020",
+        "nome": "Moving Day",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/750020/header.jpg"
+    },
+    {
+        "id": "750920",
+        "nome": "Shadow of the Tomb Raider: Definitive Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/750920/header.jpg"
+    },
+    {
+        "id": "752590",
+        "nome": "A Plague Tale: Innocence",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/752590/header.jpg"
+    },
+    {
+        "id": "753640",
+        "nome": "Outer Wilds",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/753640/header.jpg"
+    },
+    {
+        "id": "756800",
+        "nome": "Contraband Police",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/756800/header.jpg"
+    },
+    {
+        "id": "758330",
+        "nome": "Shenmue I & II",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/758330/header.jpg"
+    },
+    {
+        "id": "759740",
+        "nome": "RIDE 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/759740/header.jpg"
+    },
+    {
+        "id": "7670",
+        "nome": "BioShock™",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/7670/header.jpg"
+    },
+    {
+        "id": "767390",
+        "nome": "Dakar 18",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/767390/header.jpg"
+    },
+    {
+        "id": "768060",
+        "nome": "The Warrior Of Treasures",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/768060/header.jpg"
+    },
+    {
+        "id": "770240",
+        "nome": "PRO EVOLUTION SOCCER 2019",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/770240/header.jpg"
+    },
+    {
+        "id": "770490",
+        "nome": "Death in the Water",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/770490/header.jpg"
+    },
+    {
+        "id": "7740",
+        "nome": "NBA 2K9",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/7740/header.jpg"
+    },
+    {
+        "id": "774171",
+        "nome": "Muse Dash",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/774171/header.jpg"
+    },
+    {
+        "id": "774361",
+        "nome": "Blasphemous",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/774361/header.jpg"
+    },
+    {
+        "id": "774801",
+        "nome": "Crab Champions",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/774801/header.jpg"
+    },
+    {
+        "id": "775500",
+        "nome": "SCARLET NEXUS",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/775500/header.jpg"
+    },
+    {
+        "id": "775900",
+        "nome": "MotoGP™18",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/775900/header.jpg"
+    },
+    {
+        "id": "781800",
+        "nome": "Walhall",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/781800/header.jpg"
+    },
+    {
+        "id": "782330",
+        "nome": "DOOM Eternal",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/782330/header.jpg"
+    },
+    {
+        "id": "787480",
+        "nome": "Phoenix Wright: Ace Attorney Trilogy",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/787480/header.jpg"
+    },
+    {
+        "id": "787860",
+        "nome": "Farming Simulator 19",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/787860/header.jpg"
+    },
+    {
+        "id": "7940",
+        "nome": "Call of Duty® 4: Modern Warfare® (2007)",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/7940/header.jpg"
+    },
+    {
+        "id": "794260",
+        "nome": "Outward Definitive Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/794260/header.jpg"
+    },
+    {
+        "id": "797410",
+        "nome": "Headsnatchers",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/797410/header.jpg"
+    },
+    {
+        "id": "798290",
+        "nome": "MXGP PRO",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/798290/header.jpg"
+    },
+    {
+        "id": "798510",
+        "nome": "SUPER DRAGON BALL HEROES WORLD MISSION",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/798510/header.jpg"
+    },
+    {
+        "id": "801800",
+        "nome": "Atomfall",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/801800/header.jpg"
+    },
+    {
+        "id": "803830",
+        "nome": "The Snowboard Game",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/803830/header.jpg"
+    },
+    {
+        "id": "805550",
+        "nome": "Assetto Corsa Competizione",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/805550/header.jpg"
+    },
+    {
+        "id": "814380",
+        "nome": "Sekiro™: Shadows Die Twice - GOTY Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/814380/header.jpg"
+    },
+    {
+        "id": "815370",
+        "nome": "Green Hell",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/815370/header.jpg"
+    },
+    {
+        "id": "816020",
+        "nome": "JUMP FORCE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/816020/header.jpg"
+    },
+    {
+        "id": "816080",
+        "nome": "Ultimate Select Hero / 究极勇者的选择传说",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/816080/header.jpg"
+    },
+    {
+        "id": "816340",
+        "nome": "Kingdom Rush Origins - Tower Defense",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/816340/header.jpg"
+    },
+    {
+        "id": "818320",
+        "nome": "LEGO® The Incredibles",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/818320/header.jpg"
+    },
+    {
+        "id": "8190",
+        "nome": "Just Cause 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/8190/header.jpg"
+    },
+    {
+        "id": "829110",
+        "nome": "LEGO® DC Super-Villains",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/829110/header.jpg"
+    },
+    {
+        "id": "830640",
+        "nome": "DayZ Tools",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/830640/header.jpg"
+    },
+    {
+        "id": "832080",
+        "nome": "Google Spotlight Stories: Back to the Moon",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/832080/header.jpg"
+    },
+    {
+        "id": "834280",
+        "nome": "Fishing Sim World®: Pro Tour",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/834280/header.jpg"
+    },
+    {
+        "id": "834530",
+        "nome": "Yakuza Kiwami (Legacy)",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/834530/header.jpg"
+    },
+    {
+        "id": "837470",
+        "nome": "Untitled Goose Game",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/837470/header.jpg"
+    },
+    {
+        "id": "841370",
+        "nome": "NBA 2K19",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/841370/header.jpg"
+    },
+    {
+        "id": "844850",
+        "nome": "Tower Hunter: Erza's Trial",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/844850/header.jpg"
+    },
+    {
+        "id": "848450",
+        "nome": "Subnautica: Below Zero",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/848450/header.jpg"
+    },
+    {
+        "id": "850190",
+        "nome": "Goat Simulator 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/850190/header.jpg"
+    },
+    {
+        "id": "851850",
+        "nome": "DRAGON BALL Z: KAKAROT",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/851850/header.jpg"
+    },
+    {
+        "id": "860510",
+        "nome": "Little Nightmares II",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/860510/header.jpg"
+    },
+    {
+        "id": "861350",
+        "nome": "Gym Simulator",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/861350/header.jpg"
+    },
+    {
+        "id": "861650",
+        "nome": "Session: Skate Sim",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/861650/header.jpg"
+    },
+    {
+        "id": "863550",
+        "nome": "HITMAN™ 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/863550/header.jpg"
+    },
+    {
+        "id": "866800",
+        "nome": "The Walking Dead: The Final Season",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/866800/header.jpg"
+    },
+    {
+        "id": "871980",
+        "nome": "Digimon Survive",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/871980/header.jpg"
+    },
+    {
+        "id": "873230",
+        "nome": "The King's Request: Physiology and Anatomy Revision Game",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/873230/header.jpg"
+    },
+    {
+        "id": "876930",
+        "nome": "Fancy Skiing 2: Online",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/876930/header.jpg"
+    },
+    {
+        "id": "878670",
+        "nome": "Shenmue III",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/878670/header.jpg"
+    },
+    {
+        "id": "881320",
+        "nome": "The LEGO Movie 2 Videogame",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/881320/header.jpg"
+    },
+    {
+        "id": "882020",
+        "nome": "Monster Energy Supercross - The Official Videogame 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/882020/header.jpg"
+    },
+    {
+        "id": "883710",
+        "nome": "Resident Evil 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/883710/header.jpg"
+    },
+    {
+        "id": "8850",
+        "nome": "BioShock® 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/8850/header.jpg"
+    },
+    {
+        "id": "8870",
+        "nome": "BioShock Infinite",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/8870/header.jpg"
+    },
+    {
+        "id": "892970",
+        "nome": "Valheim",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/892970/header.jpg"
+    },
+    {
+        "id": "895400",
+        "nome": "Deadside",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/895400/header.jpg"
+    },
+    {
+        "id": "8980",
+        "nome": "Borderlands Game of the Year",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/8980/header.jpg"
+    },
+    {
+        "id": "9010",
+        "nome": "Return to Castle Wolfenstein",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/9010/header.jpg"
+    },
+    {
+        "id": "911400",
+        "nome": "Assassin's Creed® III Remastered",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/911400/header.jpg"
+    },
+    {
+        "id": "91310",
+        "nome": "Steam App 91310",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/91310/header.jpg"
+    },
+    {
+        "id": "913740",
+        "nome": "WORLD OF HORROR",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/913740/header.jpg"
+    },
+    {
+        "id": "9200",
+        "nome": "RAGE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/9200/header.jpg"
+    },
+    {
+        "id": "920210",
+        "nome": "LEGO® Star Wars™: A Saga Skywalker",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/920210/header.jpg"
+    },
+    {
+        "id": "921500",
+        "nome": "Jack Is Missing",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/921500/header.jpg"
+    },
+    {
+        "id": "924970",
+        "nome": "Back 4 Blood",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/924970/header.jpg"
+    },
+    {
+        "id": "924980",
+        "nome": "Trials of Mana",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/924980/header.jpg"
+    },
+    {
+        "id": "927380",
+        "nome": "Yakuza Kiwami 2 (Legacy)",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/927380/header.jpg"
+    },
+    {
+        "id": "934700",
+        "nome": "Dead Island 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/934700/header.jpg"
+    },
+    {
+        "id": "936790",
+        "nome": "Life is Strange: True Colors",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/936790/header.jpg"
+    },
+    {
+        "id": "945710",
+        "nome": "DreadOut 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/945710/header.jpg"
+    },
+    {
+        "id": "952060",
+        "nome": "Resident Evil 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/952060/header.jpg"
+    },
+    {
+        "id": "952070",
+        "nome": "RESIDENT EVIL RESISTANCE",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/952070/header.jpg"
+    },
+    {
+        "id": "953490",
+        "nome": "CARRION",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/953490/header.jpg"
+    },
+    {
+        "id": "954850",
+        "nome": "Kerbal Space Program 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/954850/header.jpg"
+    },
+    {
+        "id": "958400",
+        "nome": "Project CARS 3",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/958400/header.jpg"
+    },
+    {
+        "id": "960090",
+        "nome": "Bloons TD 6",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/960090/header.jpg"
+    },
+    {
+        "id": "960990",
+        "nome": "Beyond: Two Souls",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/960990/header.jpg"
+    },
+    {
+        "id": "961490",
+        "nome": "Travis Strikes Again: No More Heroes Complete Edition",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/961490/header.jpg"
+    },
+    {
+        "id": "962130",
+        "nome": "Grounded",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/962130/header.jpg"
+    },
+    {
+        "id": "969990",
+        "nome": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/969990/header.jpg"
+    },
+    {
+        "id": "976310",
+        "nome": "Mortal Kombat 11",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/976310/header.jpg"
+    },
+    {
+        "id": "976590",
+        "nome": "Bus Simulator 21 Next Stop",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/976590/header.jpg"
+    },
+    {
+        "id": "976730",
+        "nome": "Halo: The Master Chief Collection",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/976730/header.jpg"
+    },
+    {
+        "id": "984780",
+        "nome": "MotoGP™19",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/984780/header.jpg"
+    },
+    {
+        "id": "986020",
+        "nome": "Kunoichi Botan",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/986020/header.jpg"
+    },
+    {
+        "id": "990380",
+        "nome": "METAL EDEN",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/990380/header.jpg"
+    },
+    {
+        "id": "9930",
+        "nome": "Steam App 9930",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/9930/header.jpg"
+    },
+    {
+        "id": "993090",
+        "nome": "Lossless Scaling",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/993090/header.jpg"
+    },
+    {
+        "id": "997010",
+        "nome": "Police Simulator: Patrol Officers",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/997010/header.jpg"
+    },
+    {
+        "id": "997070",
+        "nome": "Marvel's Avengers - Edição Definitiva",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/997070/header.jpg"
+    }
+]
