@@ -1,5 +1,6 @@
 {
   "versaoAtual": "2.0.0",
   "obrigatorio": true,
-  "mensagem": "Uma atualização importante foi lançada. Por favor, reinicie o aplicativo."
+  "mensagem": "Uma atualização importante foi lançada. Clique abaixo para baixar a nova versão.",
+  "linkDownload": "https://meusite.com/instalador_novo.exe"
 }
