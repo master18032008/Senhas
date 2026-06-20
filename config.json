@@ -1,0 +1,14 @@
+{
+  "gold": {
+    "versaoPermitida": "1.0",
+    "senhaCorreta": "GOLD2026"
+  },
+  "hook": {
+    "versaoPermitida": "1.0",
+    "senhaCorreta": "HOOK2026"
+  },
+  "pro": {
+    "versaoPermitida": "1.0",
+    "senhaCorreta": "PRO2026"
+  }
+}
