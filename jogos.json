@@ -1,5 +1,20 @@
 [
-{
+    {
+        "id": "3768760",
+        "nome": "007 First Light",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3768760/header.jpg"
+    },
+            {
+        "id": "3764200",
+        "nome": "Resident Evil Requiem",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3764200/header.jpg"
+    },
+            {
+        "id": "2483190",
+        "nome": "Forza horizon 6",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2483190/header.jpg"
+    },
+        {
         "id": "1004640",
         "nome": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
         "imagem": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004640/7ea3f747f459cea19caa51a38720c115f3a22161/capsule_616x353.jpg?t=1781662166"
@@ -2624,11 +2639,7 @@
         "nome": "Steam App 2479810",
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2479810/header.jpg"
     },
-    {
-        "id": "2483190",
-        "nome": "Steam App 2483190",
-        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/2483190/header.jpg"
-    },
+
     {
         "id": "24840",
         "nome": "Steam App 24840",
@@ -3914,22 +3925,13 @@
         "nome": "DARK SOULS™ III",
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/374320/header.jpg"
     },
-    {
-        "id": "3764200",
-        "nome": "Resident Evil Requiem",
-        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3764200/header.jpg"
-    },
+
     {
         "id": "376870",
         "nome": "Minecraft: Story Mode - A Telltale Games Series",
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/376870/header.jpg"
     },
-    {
-        "id": "3768760",
-        "nome": "007 First Light",
-        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3768760/header.jpg"
-    },
-    {
+        {
         "id": "377160",
         "nome": "Fallout 4",
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/377160/header.jpg"
