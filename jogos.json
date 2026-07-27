@@ -3012,7 +3012,12 @@
     },
     {
         "id": "271590",
-        "nome": "Steam App 271590",
+        "nome": "Grand Theft Auto V Legacy",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/271590/header.jpg"
+    },
+        {
+        "id": "3240220",
+        "nome": "Grand Theft Auto V Enhanced",
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/271590/header.jpg"
     },
     {
