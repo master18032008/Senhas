@@ -514,6 +514,18 @@
         "nome": "Grand Theft Auto IV: The Complete Edition",
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/12210/header.jpg"
     },
+        {
+        "id": "271590",
+        "nome": "Grand Theft Auto V Legacy",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/271590/header.jpg",
+  
+    },
+        {
+        "id": "3240220",
+        "nome": "Grand Theft Auto V Enhanced",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/3240220/header.jpg",
+
+    },
     {
         "id": "1222140",
         "nome": "Detroit: Become Human",
