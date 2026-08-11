@@ -60,6 +60,11 @@
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1030300/header.jpg"
     },
     {
+        "id": "883710",
+        "nome": "Resident evil 2",
+        "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/883710/header.jpg"
+    },
+    {
         "id": "1030830",
         "nome": "Mafia II: Definitive Edition",
         "imagem": "https://shared.fastly.steamstatic.com/store_images/apps/1030830/header.jpg"
